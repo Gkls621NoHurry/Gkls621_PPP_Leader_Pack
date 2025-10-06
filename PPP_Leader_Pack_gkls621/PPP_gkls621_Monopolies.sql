@@ -1,0 +1,124 @@
+-- Products with Monopoly Mode active, designed for Saaya's trait
+-- Code reference from JNR
+
+CREATE TABLE GklsProductNum(
+    Num TEXT
+);
+
+INSERT OR IGNORE INTO GklsProductNum(Num)
+VALUES
+('0'), ('1'), ('2'), ('3'), ('4'), ('5'), ('6'), ('7'), ('8'), ('9'),
+('A'), ('B'), ('C'), ('D'), ('E'), ('F'), ('G'), ('H'), ('I'), ('J'), ('K'), ('L'), ('M'),
+('N'), ('O'), ('P'), ('Q'), ('R'), ('S'), ('T'), ('U'), ('V'), ('W'), ('X'), ('Y'), ('Z');
+
+INSERT INTO Types
+(Type, Kind)
+VALUES
+('RESOURCE_SAAYA_BREAD_gkls621',    'KIND_RESOURCE'),
+('PROJECT_CREATE_PRODUCT_BREAD_gkls621',    'KIND_PROJECT');
+
+INSERT OR IGNORE INTO Types
+(Type,  Kind)
+SELECT	'GREATWORK_PRODUCT_SAAYA_BREAD_gkls621_' || Num,    'KIND_GREATWORK'
+FROM	GklsProductNum WHERE Num > 0;
+
+INSERT INTO Resources
+(ResourceType,                      ResourceClassType,      Happiness,  Frequency,  Name)
+VALUES
+('RESOURCE_SAAYA_BREAD_gkls621',    'RESOURCECLASS_LUXURY', 4,          0,          'LOC_RESOURCE_SAAYA_BREAD_gkls621_NAME');
+
+INSERT INTO GreatWorks
+(GreatWorkType, GreatWorkObjectType,    Name, Tourism)
+SELECT 'GREATWORK_PRODUCT_SAAYA_BREAD_gkls621_' || Num,
+'GREATWORKOBJECT_PRODUCT',  'LOC_GREATWORK_PRODUCT_SAAYA_BREAD_gkls621_X_NAME', 3
+FROM	GklsProductNum WHERE Num > 0;
+
+INSERT INTO GreatWorks_ImprovementType
+(GreatWorkType,	ResourceType)
+SELECT 'GREATWORK_PRODUCT_SAAYA_BREAD_gkls621_' || Num, 'RESOURCE_SAAYA_BREAD_gkls621'
+FROM	GklsProductNum WHERE Num > 0;
+
+INSERT INTO GreatWork_YieldChanges
+(GreatWorkType, YieldType,  YieldChange)
+SELECT 'GREATWORK_PRODUCT_SAAYA_BREAD_gkls621_' || Num,
+'YIELD_FOOD',    5
+FROM	GklsProductNum WHERE Num > 0;
+
+INSERT INTO GreatWorkModifiers
+(GreatWorkType, ModifierId)
+SELECT 'GREATWORK_PRODUCT_SAAYA_BREAD_gkls621_' || Num,
+'BREAD_TRADE_ROUTE_FOOD_TO_OTHERS_gkls621'
+FROM	GklsProductNum WHERE Num > 0;
+
+INSERT INTO GreatWorkModifiers
+(GreatWorkType, ModifierId)
+SELECT 'GREATWORK_PRODUCT_SAAYA_BREAD_gkls621_' || Num,
+'BREAD_TRADE_ROUTE_GOLD_INTERNATIONAL_gkls621'
+FROM	GklsProductNum WHERE Num > 0;
+
+INSERT INTO GreatWorkModifiers
+(GreatWorkType, ModifierId)
+SELECT 'GREATWORK_PRODUCT_SAAYA_BREAD_gkls621_' || Num,
+'BREAD_INTERNATIONAL_TRADE_ROUTE_ALL_YIELDS_gkls621'
+FROM	GklsProductNum WHERE Num > 0;
+
+INSERT INTO GreatWorkModifiers
+(GreatWorkType, ModifierId)
+SELECT 'GREATWORK_PRODUCT_SAAYA_BREAD_gkls621_' || Num,
+'BREAD_AMENITY_gkls621'
+FROM	GklsProductNum WHERE Num > 0;
+
+INSERT INTO Modifiers
+(ModifierId,    ModifierType)
+VALUES
+('BREAD_TRADE_ROUTE_FOOD_TO_OTHERS_gkls621',    'MODIFIER_SINGLE_CITY_ADJUST_TRADE_ROUTE_YIELD_TO_OTHERS'),
+('BREAD_TRADE_ROUTE_GOLD_INTERNATIONAL_gkls621',    'MODIFIER_SINGLE_CITY_ADJUST_TRADE_ROUTE_YIELD_FOR_INTERNATIONAL'),
+('BREAD_INTERNATIONAL_TRADE_ROUTE_ALL_YIELDS_gkls621',  'MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_MODIFIER'),
+('BREAD_AMENITY_gkls621',    'MODIFIER_SINGLE_CITY_ADJUST_IMPROVEMENT_AMENITY');
+
+INSERT INTO ModifierArguments
+(ModifierId,    Name,   Value)
+VALUES
+('BREAD_TRADE_ROUTE_FOOD_TO_OTHERS_gkls621',    'Amount',   3),
+('BREAD_TRADE_ROUTE_FOOD_TO_OTHERS_gkls621',    'YieldType',   'YIELD_FOOD'),
+('BREAD_TRADE_ROUTE_GOLD_INTERNATIONAL_gkls621',    'Amount',   5),
+('BREAD_TRADE_ROUTE_GOLD_INTERNATIONAL_gkls621',    'YieldType',   'YIELD_GOLD'),
+('BREAD_INTERNATIONAL_TRADE_ROUTE_ALL_YIELDS_gkls621',  'YieldType',    'YIELD_PRODUCTION, YIELD_FOOD, YIELD_SCIENCE, YIELD_CULTURE, YIELD_GOLD, YIELD_FAITH'),
+('BREAD_INTERNATIONAL_TRADE_ROUTE_ALL_YIELDS_gkls621',  'Amount',   '8, 8, 8, 8, 8, 8'),
+('BREAD_AMENITY_gkls621',   'Amount',   2);
+
+-- Project part
+INSERT INTO Projects
+(ProjectType,   Name,   ShortName,  Description,    RequiredBuilding,   Cost,	AdvisorType,  UnlocksFromEffect)
+VALUES
+('PROJECT_CREATE_PRODUCT_BREAD_gkls621',    'LOC_PROJECT_CREATE_PRODUCT_BREAD_gkls621_NAME',
+'LOC_PROJECT_CREATE_PRODUCT_BREAD_gkls621_SHORT_NAME',  'LOC_PROJECT_CREATE_PRODUCT_BREAD_gkls621_DESCRIPTION',
+'BUILDING_GRANARY', 200,    'ADVISOR_GENERIC',   1);
+
+INSERT INTO ProjectCompletionModifiers
+(ProjectType,   ModifierId)
+VALUES
+('PROJECT_CREATE_PRODUCT_BREAD_gkls621',    'PROJECT_COMPLETION_CREATE_CORPORATION_PRODUCT_BREAD_gkls621');
+
+INSERT INTO Modifiers
+(ModifierId,    ModifierType)
+VALUES
+('PROJECT_COMPLETION_CREATE_CORPORATION_PRODUCT_BREAD_gkls621', 'MODIFIER_PLAYER_GRANT_RANDOM_RESOURCE_PRODUCT');
+
+INSERT INTO ModifierArguments
+(ModifierId,    Name,   Value)
+VALUES
+('PROJECT_COMPLETION_CREATE_CORPORATION_PRODUCT_BREAD_gkls621', 'ResourceType',	'RESOURCE_SAAYA_BREAD_gkls621');
+
+INSERT INTO ResourceIndustries
+(ResourceType,  ResourceEffectTExt)
+VALUES
+('RESOURCE_SAAYA_BREAD_gkls621', 'LOC_BREAD_TRADE_ROUTE_FOOD_TO_OTHERS_gkls621_DESCRIPTION');
+
+INSERT INTO ModifierStrings
+(ModifierId,    Context,    Text)
+VALUES
+('BREAD_TRADE_ROUTE_FOOD_TO_OTHERS_gkls621',    'Summary',  'LOC_BREAD_TRADE_ROUTE_FOOD_TO_OTHERS_gkls621_DESCRIPTION');
+--('BREAD_TRADE_ROUTE_GOLD_INTERNATIONAL_gkls621',    'Summary',  'LOC_BREAD_TRADE_ROUTE_GOLD_INTERNATIONAL_gkls621_DESCRIPTION'),
+--('BREAD_INTERNATIONAL_TRADE_ROUTE_ALL_YIELDS_gkls621',    'Summary',  'LOC_BREAD_INTERNATIONAL_TRADE_ROUTE_ALL_YIELDS_gkls621_DESCRIPTION'),
+--('BREAD_AMENITY_gkls621',    'Summary',  'LOC_BREAD_AMENITY_gkls621_DESCRIPTION');

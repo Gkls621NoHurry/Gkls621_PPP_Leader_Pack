@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<Types>
+		<Row Type="UNIT_RIMI_ZOMBIE_gkls621" Kind="KIND_UNIT"/>
+		<Row Type="TRAIT_UNIT_RIMI_ZOMBIE_gkls621" Kind="KIND_TRAIT" />
+        <Row Type = "ABILITY_RIMI_ZOMBIE_MOVEMENT_gkls621" Kind = "KIND_ABILITY" />
+		<Row Type = "ABILITY_RIMI_ZOMBIE_CAPTURE_gkls621" Kind = "KIND_ABILITY" />
+		<!--<Row Type="UNITCOMMAND_RELEASE_LEVY" Kind="KIND_UNITCOMMAND"/>
+		<Row Type="UNITOPERATION_SPY_ZOMBIFY" Kind="KIND_UNITOPERATION"/>
+	
+		<Row Type="NOTIFICATION_SPY_ZOMBIES" Kind="KIND_NOTIFICATION"/>
+		<Row Type="NOTIFICATION_SPY_ENEMY_ZOMBIES" Kind="KIND_NOTIFICATION"/>-->
+	</Types>
+  	<Tags>
+    	<Row Tag="CLASS_RIMI_ZOMBIE_gkls621" Vocabulary="ABILITY_CLASS"/>
+  	</Tags>
+	<TypeTags>
+		<Row Type="UNIT_RIMI_ZOMBIE_gkls621" Tag="CLASS_RIMI_ZOMBIE_gkls621"/>
+		<Row Type="UNIT_RIMI_ZOMBIE_gkls621" Tag="CLASS_WARRIOR_MONK"/> 
+        <Row Type = "ABILITY_RIMI_ZOMBIE_MOVEMENT_gkls621" Tag = "CLASS_RIMI_ZOMBIE_gkls621" />
+		<Row Type = "ABILITY_RIMI_ZOMBIE_CAPTURE_gkls621" Tag = "CLASS_RIMI_ZOMBIE_gkls621" />
+    </TypeTags>
+	<Traits>
+		<Row TraitType="TRAIT_UNIT_RIMI_ZOMBIE_gkls621" Name="LOC_UNIT_RIMI_ZOMBIE_gkls621_NAME" Description="LOC_UNIT_RIMI_ZOMBIE_gkls621_DESCRIPTION"/>
+	</Traits>
+	<Units>
+		<Row UnitType="UNIT_RIMI_ZOMBIE_gkls621" Cost="100" Maintenance="1" BaseMoves="3" BaseSightRange="3" ZoneOfControl="true" Domain="DOMAIN_LAND" Combat="24" CanTrain="false" CanEarnExperience="true" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_MELEE" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_RIMI_ZOMBIE_gkls621_NAME" Description="LOC_UNIT_RIMI_ZOMBIE_gkls621_DESCRIPTION" TraitType="TRAIT_UNIT_RIMI_ZOMBIE_gkls621"/>
+	</Units>
+	<!--<UnitCommands>
+		<Row CommandType="UNITCOMMAND_RELEASE_LEVY" VisibleInUI="true" HoldCycling="false" CategoryInUI="SPECIFIC" Icon="ICON_UNITCOMMAND_RELEASE_LEVY" Description="LOC_UNITCOMMAND_RELEASE_LEVY_DESCRIPTION"/>
+	</UnitCommands>
+	<UnitOperations>
+		<Row OperationType="UNITOPERATION_SPY_ZOMBIFY" VisibleInUI="true" HoldCycling="true" CategoryInUI="OFFENSIVESPY" Icon="ICON_UNITOPERATION_SPY_ZOMBIFY" Description="LOC_UNITCOMMAND_SPY_SUMMON_ZOMBIES_NAME" Turns="8" BaseProbability="15" LevelProbChange="1" EnemyProbChange="3" EnemyLevelProbChange="1" TargetDistrict="DISTRICT_CITY_CENTER" InterfaceMode="INTERFACEMODE_SPY_CHOOSE_MISSION"/>
+	</UnitOperations>-->
+	<UnitUpgrades>
+	</UnitUpgrades>
+	<UnitAbilities>
+        <Row UnitAbilityType = "ABILITY_RIMI_ZOMBIE_MOVEMENT_gkls621" Name = "LOC_ABILITY_RIMI_ZOMBIE_MOVEMENT_gkls621_NAME" Description = "LOC_ABILITY_RIMI_ZOMBIE_MOVEMENT_gkls621_DESCRIPTION" Inactive = "true"/>
+		<Row UnitAbilityType = "ABILITY_RIMI_ZOMBIE_CAPTURE_gkls621" Name = "LOC_ABILITY_RIMI_ZOMBIE_CAPTURE_gkls621_NAME" Description = "LOC_ABILITY_RIMI_ZOMBIE_CAPTURE_gkls621_DESCRIPTION" Inactive = "true"/>
+	</UnitAbilities>
+	<GameModifiers>
+        <Row ModifierId = "RIMI_ZOMBIE_PROPERTY_STRENGTH_ATTACH_gkls621" />
+	</GameModifiers>
+	<UnitAbilityModifiers>
+		<Row>
+			<UnitAbilityType>ABILITY_RIMI_ZOMBIE_MOVEMENT_gkls621</UnitAbilityType>
+			<ModifierId>RIMI_ZOMBIE_ADJUST_MOVEMENT_gkls621</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_RIMI_ZOMBIE_CAPTURE_gkls621</UnitAbilityType>
+			<ModifierId>RIMI_ZOMBIE_CAPTURE_TO_ROCK_BAND_gkls621</ModifierId>
+		</Row>
+	</UnitAbilityModifiers>
+    <Modifiers>
+        <Row ModifierId = "RIMI_ZOMBIE_PROPERTY_STRENGTH_ATTACH_gkls621" ModifierType = "MODIFIER_ALL_UNITS_ATTACH_MODIFIER" SubjectRequirementSetId = "REQSET_PPP_UNIT_IS_RIMI_ZOMBIE_gkls621" />
+        <Row ModifierId = "RIMI_ZOMBIE_PROPERTY_STRENGTH_gkls621" ModifierType = "MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH" />
+		<Row>
+			<ModifierId>RIMI_ZOMBIE_ADJUST_MOVEMENT_gkls621</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_MOVEMENT</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>RIMI_ZOMBIE_CAPTURE_TO_ROCK_BAND_gkls621</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_CAPTURE</ModifierType>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+        <Row ModifierId = "RIMI_ZOMBIE_PROPERTY_STRENGTH_ATTACH_gkls621" Name = "ModifierId" Value = "RIMI_ZOMBIE_PROPERTY_STRENGTH_gkls621" />
+        <Row ModifierId = "RIMI_ZOMBIE_PROPERTY_STRENGTH_gkls621" Name = "Key" Value = "RIMI_ZOMBIE_EXTRA_COMBAT_STRENGTH_gkls621" />
+		<Row>
+			<ModifierId>RIMI_ZOMBIE_ADJUST_MOVEMENT_gkls621</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>RIMI_ZOMBIE_CAPTURE_TO_ROCK_BAND_gkls621</ModifierId>
+			<Name>CanCapture</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>RIMI_ZOMBIE_CAPTURE_TO_ROCK_BAND_gkls621</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_ROCK_BAND</Value>
+		</Row>
+	</ModifierArguments>
+
+    <RequirementSets>
+		<Row>
+			<RequirementSetId>REQSET_PPP_UNIT_IS_RIMI_ZOMBIE_gkls621</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>REQSET_PPP_UNIT_IS_RIMI_ZOMBIE_gkls621</RequirementSetId>
+			<RequirementId>PPP_UNIT_IS_RIMI_ZOMBIE_gkls621</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>PPP_UNIT_IS_RIMI_ZOMBIE_gkls621</RequirementId>
+			<RequirementType>REQUIREMENT_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+	<RequirementArguments>
+		<Row>
+			<RequirementId>PPP_UNIT_IS_RIMI_ZOMBIE_gkls621</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_RIMI_ZOMBIE_gkls621</Value>
+		</Row>
+	</RequirementArguments>
+	<ModifierStrings>
+		<Row ModifierId="RIMI_ZOMBIE_PROPERTY_STRENGTH_gkls621" Context="Preview" Text="LOC_RIMI_ZOMBIE_PROPERTY_STRENGTH_gkls621_DESCRIPTION"/>
+	</ModifierStrings>
+</GameInfo>
+	<!--<Notifications>
+		<Row NotificationType="NOTIFICATION_SPY_ZOMBIES" SeverityType="MID" ExpiresEndOfTurn="True" AutoNotify="False" GroupType="ESPIONAGE"/>
+		<Row NotificationType="NOTIFICATION_SPY_ENEMY_ZOMBIES" SeverityType="MID" ExpiresEndOfTurn="True" AutoNotify="False" GroupType="ESPIONAGE"/>
+	</Notifications>
+	<TypeProperties>
+		Clans Mode crossover: clans ignore Zombies for clan-related special behavior
+		<Row Type="UNIT_RIMI_ZOMBIE_gkls621"			Name="CLAN_EXCLUDE_UNIT_TYPE" Value="true"/>
+		<Row Type="UNITOPERATION_SPY_ZOMBIFY"	Name="SPY_OPERATION_CHANCE_TO_SPAWN_ZOMBIE" Value="50"/>
+	</TypeProperties>
+	
+  AI information to manage zombie units
+  <AllowedMoves>
+    <Row AllowedMoveType="Zombie Horde Attack" Value="36" IsTactical="true" />
+  </AllowedMoves>
+  <AiFavoredItems>
+    <Row ListType="Default Barbarian" Item="Zombie Horde Attack" Value="1" />
+  </AiFavoredItems>
+	<BarbarianTribe_ExtraUnits>
+		<Row>
+			<TribeType>TRIBE_MELEE</TribeType>
+			<UnitType>UNIT_RIMI_ZOMBIE_gkls621</UnitType>
+			<Number>3</Number>
+		</Row>
+		<Row>
+			<TribeType>TRIBE_CAVALRY</TribeType>
+			<UnitType>UNIT_RIMI_ZOMBIE_gkls621</UnitType>
+			<Number>3</Number>
+		</Row>
+		<Row>
+			<TribeType>TRIBE_NAVAL</TribeType>
+			<UnitType>UNIT_RIMI_ZOMBIE_gkls621</UnitType>
+			<Number>3</Number>
+		</Row>
+	</BarbarianTribe_ExtraUnits>-->
+

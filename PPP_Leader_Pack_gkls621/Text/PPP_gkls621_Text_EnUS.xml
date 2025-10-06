@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text -->
+<!-- Author: Geekless_621 -->
+<GameData>
+	<LocalizedText>
+        <!--CIVILIZATION Information-->
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_NAME" Language="en_US">
+			<Text>Poppin' Party</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Poppin' Party</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_ADJECTIVE" Language="en_US">
+			<Text>PPP's</Text>
+		</Row>
+        <Row Tag="LOC_TRAIT_CIVILIZATION_PPP_gkls621_NAME" Language="en_US">
+			<Text>Star Beat</Text>
+		</Row>
+        <Row Tag="LOC_TRAIT_CIVILIZATION_PPP_gkls621_DESCRIPTION" Language="en_US">
+			<Text>[ICON_CivicBoosted] Inspiration provides an additional 10% [ICON_Culture] Culture. Gain a [ICON_GreatWork_Relic] Relic when triggering the first [ICON_CivicBoosted] Inspiration. Relics provide +3 [ICON_Faith] Faith and +3 [ICON_Culture] Culture. Each Civic researched provides 10% progress towards "Early Empire" and "Political Philosophy". Campuses, Theater Squares, and Holy Sites adjacent to [ICON_RESOURCE_ANTIQUITY_SITE][ICON_RESOURCE_SHIPWRECK] Artifact tiles gain +4 adjacency bonus.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_1" Language="en_US">
+			<Text>Livehouse Circle</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_2" Language="en_US">
+			<Text>Ryuseido</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_3" Language="en_US">
+			<Text>Rabbit Island</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_4" Language="en_US">
+			<Text>Yamabuki Bakery</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_5" Language="en_US">
+			<Text>Chocolate Fountain</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_6" Language="en_US">
+			<Text>Toyama Machi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_7" Language="en_US">
+			<Text>Ichigaya Machi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_8" Language="en_US">
+			<Text>Hanazono Machi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_9" Language="en_US">
+			<Text>Yamabuki Machi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_10" Language="en_US">
+			<Text>Ushigome Machi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_11" Language="en_US">
+			<Text>Hanasakigawa Girls' School</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_12" Language="en_US">
+			<Text>Shopping Street</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_13" Language="en_US">
+			<Text>Livehouse Ring</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_14" Language="en_US">
+			<Text>Tae's Rabbit Burrow</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_15" Language="en_US">
+			<Text>Arisa's Warehouse</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_16" Language="en_US">
+			<Text>Hanasakigawa Swimming Club</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_17" Language="en_US">
+			<Text>Munetsuki Slope</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_18" Language="en_US">
+			<Text>Edogawa Music Store</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_19" Language="en_US">
+			<Text>Livehouse Space</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_20" Language="en_US">
+			<Text>Budokan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_1" Language="en_US">
+			<Text>Kasumi Toyama</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_2" Language="en_US">
+			<Text>Arisa Ichigaya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_3" Language="en_US">
+			<Text>Tae Hanazono</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_4" Language="en_US">
+			<Text>Saaya Yamabuki</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_5" Language="en_US">
+			<Text>Rimi Ushigome</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_6" Language="en_US">
+			<Text>Asuka Toyama</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_7" Language="en_US">
+			<Text>Yuri Ushigome</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_8" Language="en_US">
+			<Text>Kaori Toyama</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_9" Language="en_US">
+			<Text>Sana Yamabuki</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_10" Language="en_US">
+			<Text>Rui Utasawa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_11" Language="en_US">
+			<Text>Nana Wanibe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_12" Language="en_US">
+			<Text>Hinako Hatachi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_13" Language="en_US">
+			<Text>Natsuki Uno</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_14" Language="en_US">
+			<Text>Satomi Ookoro</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_15" Language="en_US">
+			<Text>Mayu Kawabata</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_16" Language="en_US">
+			<Text>Bunka Mori</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_17" Language="en_US">
+			<Text>Marina Tsukishima</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PPP_gkls621_18" Language="en_US">
+			<Text>Shifune Tsuzuki</Text>
+		</Row>
+		<!--Leader Names-->
+		<Row Tag="LOC_LEADER_KASUMI_gkls621_NAME" Language="en_US">
+			<Text>Kasumi Toyama</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_ARISA_gkls621_NAME" Language="en_US">
+			<Text>Arisa Ichigaya</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TAE_gkls621_NAME" Language="en_US">
+			<Text>Tae Hanazono</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SAAYA_gkls621_NAME" Language="en_US">
+			<Text>Saaya Yamabuki</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_RIMI_gkls621_NAME" Language="en_US">
+			<Text>Rimi Ushigome</Text>
+		</Row>
+		<!--Leader Abilities-->
+		<Row Tag="LOC_TRAIT_LEADER_KASUMI_gkls621_NAME" Language="en_US">
+			<Text>Founder of Poppin'</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KASUMI_gkls621_DESCRIPTION" Language="en_US">
+			<Text>All cities receive Random Star for free. Civilian units ignore all civilization borders, but your borders are permanently open. Gain one [ICON_Government] Wildcard policy slot upon unlocking "Political Philosophy". Founding a city provides 1 [ICON_Envoy] Envoy, and cities with Random Star provide an additional [ICON_Envoy] Envoy after building a Diplomatic Quarter and unlocking "Diplomatic Service". Each suzerained city-state provides +5% [ICON_Production] Production, +5% [ICON_Culture] Culture, and +5% [ICON_Tourism] Tourism to your civilization. Can conduct a series of unique projects "Twinkle Twinkle".[NEWLINE](With "New Adjacency Core" enabled) Gain +1 [ICON_GreatProphet] Great Prophet point in city centres for each civilization met; Cities, Government Plaza and Diplomatic Quarter gains [ICON_InfluencePerTurn] Influence based on followers of your religion in each city centre.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ARISA_gkls621_NAME" Language="en_US">
+			<Text>Warehouse Master</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ARISA_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Unlock "Irrigation" immediately after unlocking "Code of Laws". Plantations and Farms improving bonus resources provide +2 [ICON_Culture] Culture; if the tile has fresh water, also +2 [ICON_Production] Production. All Great Works provide +3 [ICON_Gold] Gold base; Great Work yields increased by 200%. Has unique building "Ryuseido".[NEWLINE]Gain the following spy-related bonuses: Gain two Spies upon unlocking "Writing", Spy capacity +1 for each Campus or Commercial Hub built. Spies deploy instantly, receive one free [ICON_Promotion] promotion, and come with "Technician" promotion. Steal Technology operations always unlock the corresponding technology.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TAE_gkls621_NAME" Language="en_US">
+			<Text>Hanazono LAND</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TAE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Non-[ICON_Food] Food Amenity bonuses increased by 50%. Pastures and Camps provide +3 [ICON_Culture] Culture to adjacent Preserves. For each improved Pasture/Camp resource, all cities gain +2 [ICON_Amenities] Amenities. Gain a Naturalist when founding your Capital. Appeal of all tiles +2; cities with National Parks gain additional +3 Appeal. Cities with National Parks gain 2 points per turn of [ICON_GreatPerson] Great Person points provided by Holy Sites, Campuses, and Preserves. When creating a National Park, strategic resource tiles within it provide 15 stockpile and [ICON_Science] Science per tile; bonus and luxury resources provide [ICON_Culture] Culture. Has unique unit "Rabbit Brigade".[NEWLINE](With "New Adjacency Core" enabled) Preserves provide strategic resources based on city [ICON_Amenities] Amenity surplus, Holy Sites provide [ICON_Science] Science based on total Appeal of adjacent tiles; both bonuses increses with the sum of national parks built.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAAYA_gkls621_NAME" Language="en_US">
+			<Text>Aroma of the Bakery</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAAYA_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Cities receive a Granary when they have Random Star. First-tier Neighborhood buildings provide +2 [ICON_TradeRoute] Trade Route capacity. Bonus resources provide +2 [ICON_Faith] Faith and +2 [ICON_Production] Production; Wheat provides additional +2 [ICON_Culture] Culture. Each Farm in the destination city provides +1 [ICON_Gold] Gold to [ICON_TradeRoute] Trade Routes.[ICON_TradeRoute] Trade Routes exert +100% [ICON_Religion] Religious Pressure. Has unique district "Shopping Street".[NEWLINE](With "Light Industrial Zone" enabled) Unique district changes from "Shopping Street" to "Yamabuki Bakery".[NEWLINE](With "Monopolies and Corporations" enabled) Granaries provide +3 Product slots. Can conduct project "Bake Bread".</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RIMI_gkls621_NAME" Language="en_US">
+			<Text>Chocolate Cornet Panic</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RIMI_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Has unique Governor "Yuri Ushigome" and unique unbuildable unit "Rimi's Zombie". Start the game with two [ICON_Governor] Governor titles. Gain two Rimi's Zombies when founding Capital/founding city on foreign continent; gain two when capturing a city, plus two more if it's foreign religion city; gain one when recruiting Great People, plus one if it's [ICON_GreatProphet] Great Prophet or [ICON_GreatMusician] Great Musician. Gain two copies of unique luxury "Chocolate Cornet" when founding Capital or conquering foreign religion city. Inquisitors can completely remove foreign religion.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INHERITOR_gkls621_NAME" Language="en_US">
+			<Text>Inheritor</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INHERITOR_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Poppin' Party unique unit, replacing Swordsman. Unlocked at "Political Philosophy", with higher base [ICON_Strength] Combat Strength and [ICON_Movement] Movement, no strategic resource cost. Generates a Relic upon killing a unit or being killed.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_RANDOM_STAR_gkls621_NAME" Language="en_US">
+			<Text>Random Star</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_RANDOM_STAR_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Poppin' Party unique building, replacing Monument with lower base cost. Provides extra +1 [ICON_GreatMusician] Great Musician point and 2 slots for Great Works of any type.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TWINKLE_FOUNDER_gkls621_NAME" Language="en_US">
+			<Text>Twinkle Twinkle Little Star</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TWINKLE_FOUNDER_gkls621_SHORT_NAME" Language="en_US">
+			<Text>Twinkle Twinkle Little Star</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TWINKLE_FOUNDER_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Kasumi's unique project, requires 'Early Empire'. Gain some Founder Belief bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TWINKLE_FOLLOWER_gkls621_NAME" Language="en_US">
+			<Text>How I Wonder What You Are</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TWINKLE_FOLLOWER_gkls621_SHORT_NAME" Language="en_US">
+			<Text>How I Wonder What You Are</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TWINKLE_FOLLOWER_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Kasumi's unique project, requires 'Divine Right' and 'Twinkle Twinkle Little Star'. Upon completion, gain all Follower Belief bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TWINKLE_ENHANCER_gkls621_NAME" Language="en_US">
+			<Text>Up Above the World So High</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TWINKLE_ENHANCER_gkls621_SHORT_NAME" Language="en_US">
+			<Text>Up Above the World So High</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TWINKLE_ENHANCER_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Kasumi's unique project, requires 'Divine Right' and 'Twinkle Twinkle Little Star'. Upon completion, gain all Enhancer Belief bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TWINKLE_PANTHEON_gkls621_NAME" Language="en_US">
+			<Text>Like a Diamond in the Sky</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TWINKLE_PANTHEON_gkls621_SHORT_NAME" Language="en_US">
+			<Text>Like a Diamond in the Sky</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TWINKLE_PANTHEON_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Kasumi's unique project. Upon completion, gain all Pantheon bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_RYUSEIDO_gkls621_NAME" Language="en_US">
+			<Text>Ryuseido</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_RYUSEIDO_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Arisa's unique building, replacing Market. +1 [ICON_Science] Science per era. Yields extend to cities within 6 tiles (each city affected once). Provides 3 Great Work slots.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_RYUSEIDO_THEMINGBONUS_gkls621" Language="en_US">
+			<Text>Theming bonus tripled when displaying works of the same type.</Text>
+		</Row>
+        <Row Tag="LOC_UNIT_RABBIT_BRIGADE_gkls621_NAME" Language="en_US">
+			<Text>Rabbit Brigade</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RABBIT_BRIGADE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Tae's unique Light Cavalry unit, unlocked at "Animal Husbandry", can build 3 National Parks. Gain [ICON_Strength] Combat Strength bonuses upon unlocking specific technologies: +37 when unlocking "Stirrups", +14 at "Scientific Theory", +21 at "Sanitation", +10 at "Replaceable Parts". Gain +2 [ICON_Movement] Movement upon unlocking "Divine Right", +2 Sight at "Humanism", heal when attacking after unlocking "Natural History", capture defeated units as Rabbit Brigade after unlocking "Conservation".</Text>
+		</Row>
+        <Row Tag="LOC_DISTRICT_SHOPPING_STREET_gkls621_NAME" Language="en_US">
+			<Text>Shopping Street</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SHOPPING_STREET_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Saaya's unique district, replacing Neighborhood, unlocked at "Medieval Faires" with lower base cost. Default +3 Housing. +2 Housing and +1 Food, +1 Gold when adjacent to City Center; +2 Gold when adjacent to Commercial Hub or Entertainment Complex; +2 Housing, +2 Food, +1 Gold when adjacent to other Shopping Streets. Provides 3 [ICON_TradeRoute] Trade Route capacity and 3 Traders upon first completion.</Text>
+		</Row>
+        <Row Tag="LOC_DISTRICT_YAMABUKI_BAKERY_gkls621_NAME" Language="en_US">
+			<Text>Yamabuki Bakery</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_YAMABUKI_BAKERY_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Saaya's unique district, replacing Light Industrial Zone, with lower base cost. Multiple can be built in one city. +1 [ICON_TradeRoute] Trade Route capacity. +1 [ICON_Gold] Gold to adjacent districts; provides major adjacency bonuses to Campus, Theater Square, Holy Site, Industrial Zone, and Aerodrome. +8% [ICON_Production] Production when city produces projects.</Text>
+		</Row>
+        <Row Tag="LOC_PROJECT_CREATE_PRODUCT_BREAD_gkls621_NAME" Language="en_US">
+			<Text>Bake Bread</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_PRODUCT_BREAD_gkls621_SHORT_NAME" Language="en_US">
+			<Text>Bake Bread</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_PRODUCT_BREAD_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Saaya's unique project, requires improved Wheat resource in territory. Upon completion, provides one [ICON_GreatWork_Product] unique Product.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RIMI_ZOMBIE_gkls621_NAME" Language="en_US">
+			<Text>Rimi's Zombie</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RIMI_ZOMBIE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Rimi's unique unit, cannot be built or purchased, able to capture enemy military units. Gains [ICON_Strength] Combat Strength when killing units, being killed, or when Rimi's ranged units kill units.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_YURI_gkls621_NAME" Language="en_US">
+			<Text>Yuri Ushigome</Text>
+		</Row>
+        <Row Tag="LOC_GOVERNOR_YURI_gkls621_TITLE" Language="en_US">
+			<Text>Rimi's Elder Sister</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_YURI_gkls621_SHORT_TITLE" Language="en_US">
+			<Text>Rimi's Elder Sister</Text>
+		</Row>
+        <Row Tag="LOC_GOVERNOR_YURI_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Rimi's Elder Sister</Text>
+		</Row>
+        <Row Tag="LOC_GREATWORK_PRODUCT_BREAD_gkls621_X_NAME" Language="en_US">
+			<Text>Yamabuki Brand Bread</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_SAAYA_BREAD_gkls621__NAME" Language="en_US">
+			<Text>Yamabuki Bakery</Text>
+		</Row>
+        <Row Tag="LOC_RESOURCE_SAAYA_BREAD_gkls621_NAME" Language="en_US">
+			<Text>Saaya's Bread</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CHOCO_CORNET_gkls621_NAME" Language="en_US">
+			<Text>Chocolate Cornet</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ORIGIN_gkls621_NAME" Language="en_US">
+			<Text>Original Band</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ORIGIN_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Unlock Holy Site when any Ancient Era technology is researched. +100% [ICON_Production] Production towards Holy Site construction. This city receives Random Star for free.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_OVERSEAS_gkls621_NAME" Language="en_US">
+			<Text>Overseas Study</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_OVERSEAS_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Provides 2 [ICON_Envoy] Envoys when assigned to a city-state. Campus in this city gains +100% [ICON_Science] Science adjacency bonus. All Holy Sites in your civilization provide [ICON_Science] Science equal to their [ICON_Faith] Faith adjacency bonus.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_COMPANIONSHIP_gkls621_NAME" Language="en_US">
+			<Text>Companionship</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_COMPANIONSHIP_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Provides 2 Chocolate Cornets to the established city. Rimi's Zombie +2 [ICON_Movement] Movement.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_DILIGENCE_gkls621_NAME" Language="en_US">
+			<Text>Diligent Study</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_DILIGENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>The established city can build one extra [ICON_District] district. +3 [ICON_Science] Science per district in this city. All cities on foreign continents provide +25% [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ROLLING_ON_gkls621_NAME" Language="en_US">
+			<Text>Rolling On</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ROLLING_ON_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Allows purchasing Rimi's Zombie with [ICON_Faith] Faith, and gain an extra Zombie when produced.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_REUNION_gkls621_NAME" Language="en_US">
+			<Text>Reunion</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_REUNION_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Rimi's Zombie can capture enemy military units as rock bands. Rock Bands generate +150% [ICON_Tourism] Tourism during peace.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_CLASS_GLITTER_GREEN_gkls621_NAME" Language="en_US">
+			<Text>Glitter☆Green</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621_NAME" Language="en_US">
+			<Text>Glitter☆Green</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GG_1_gkls621_NAME" Language="en_US">
+			<Text>Don't Be Afraid</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GG_2_gkls621_NAME" Language="en_US">
+			<Text>Glee! Glee! Glee!</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_RABBIT_BRIGADE_CONSERVATION_CAPTURE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>{1_Amount}% chance to capture enemy units.</Text>
+		</Row>
+		<Row Tag="LOC_RIMI_ZOMBIE_PROPERTY_STRENGTH_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Previous kills provide +{Property} [ICON_Strength] Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RIMI_ZOMBIE_MOVEMENT_gkls621_NAME" Language="en_US">
+			<Text>Companionship</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RIMI_ZOMBIE_MOVEMENT_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Movement] Movement.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RIMI_ZOMBIE_CAPTURE_gkls621_NAME" Language="en_US">
+			<Text>Reunion</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RIMI_ZOMBIE_CAPTURE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Can capture enemy units as Rock Bands</Text>
+		</Row>
+		<Row Tag="LOC_INHERITOR_RELIC_ON_KILLING_gkls621_NAME" Language="en_US">
+			<Text>Power of Inheritance</Text>
+		</Row>
+		<Row Tag="LOC_INHERITOR_RELIC_ON_KILLING_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Gain 1 [ICON_GreatWork_Relic] Relic when killing enemy units.</Text>
+		</Row>
+		<Row Tag="LOC_INHERITOR_RELIC_ON_DEATH_gkls621_NAME" Language="en_US">
+			<Text>Power of Inheritance</Text>
+		</Row>
+		<Row Tag="LOC_INHERITOR_RELIC_ON_DEATH_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Generate 1 [ICON_GreatWork_Relic] Relic when killed.</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_STIRRUPS_STRENGTH_gkls621_NAME" Language="en_US">
+			<Text>Unlocked "Stirrups"</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_STIRRUPS_STRENGTH_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+37 [ICON_Strength] base Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_SCIENTIFIC_THEORY_STRENGTH_gkls621_NAME" Language="en_US">
+			<Text>Unlocked "Scientific Theory"</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_SCIENTIFIC_THEORY_STRENGTH_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+14 [ICON_Strength] base Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_SANITATION_STRENGTH_gkls621_NAME" Language="en_US">
+			<Text>Unlocked "Sanitation"</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_SANITATION_STRENGTH_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+21 [ICON_Strength] base Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_REPLACEABLE_PARTS_STRENGTH_gkls621_NAME" Language="en_US">
+			<Text>Unlocked "Replaceable Parts"</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_REPLACEABLE_PARTS_STRENGTH_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] base Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_DIVINE_RIGHT_MOVEMENT_gkls621_NAME" Language="en_US">
+			<Text>Unlocked "Divine Right"</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_DIVINE_RIGHT_MOVEMENT_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Movement] Movement.</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_HUMANISM_SIGHT_gkls621_NAME" Language="en_US">
+			<Text>Unlocked "Humanism"</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_HUMANISM_SIGHT_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+2 Sight.</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_NATURAL_HISTORY_AOE_HEAL_gkls621_NAME" Language="en_US">
+			<Text>Unlocked "Natural History"</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_NATURAL_HISTORY_AOE_HEAL_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Heal after attacking.</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_CONSERVATION_CAPTURE_gkls621_NAME" Language="en_US">
+			<Text>Unlocked "Conservation"</Text>
+		</Row>
+		<Row Tag="LOC_RABBIT_BRIGADE_CONSERVATION_CAPTURE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Can capture enemy units as Rabbit Brigade</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GG_AOE_DEFENSE_gkls621_NAME" Language="en_US">
+			<Text>Adjacent to Glitter☆Green</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GG_AOE_DEFENSE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength when defending.</Text>
+		</Row>
+		<Row Tag="LOC_GG_DEFENSE_STRENGTH_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength when defending while adjacent to Glitter☆Green</Text>
+		</Row>
+		<Row Tag="LOC_BREAD_TRADE_ROUTE_FOOD_TO_OTHERS_gkls621_DESCRIPTION" Language="en_US">
+			<Text>[ICON_TradeRoute] Trade Routes from this city to other civilizations provide +3 [ICON_Food] Food to them.[NEWLINE]International [ICON_TradeRoute] Trade Routes from this city provide +5 [ICON_Gold] Gold.[NEWLINE]City gains +2 [ICON_Amenities] Amenities.</Text>
+		</Row>
+		<!--<Row Tag="LOC_BREAD_TRADE_ROUTE_GOLD_INTERNATIONAL_gkls621_DESCRIPTION" Language="en_US">
+			<Text>International [ICON_TradeRoute] Trade Routes from this city provide +5 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_BREAD_INTERNATIONAL_TRADE_ROUTE_ALL_YIELDS_gkls621_DESCRIPTION" Language="en_US">
+			<Text>All yields from your international [ICON_TradeRoute] Trade Routes increased by 8%.</Text>
+		</Row>
+		<Row Tag="LOC_BREAD_AMENITY_gkls621_DESCRIPTION" Language="en_US">
+			<Text>City gains +2 [ICON_Amenities] Amenities.</Text>
+		</Row>-->
+		<Row Tag="LOC_FARM_YAMABUKI_BAKERY_PRODUCTION_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Production] production from adjacent Yamabuki Bakery.</Text>
+		</Row>
+		<Row Tag="LOC_CAMPUS_YAMABUKI_BAKERY_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] science from adjacent Yamabuki Bakery.</Text>
+		</Row>
+		<Row Tag="LOC_HOLY_SITE_YAMABUKI_BAKERY_FAITH_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Faith] faith from adjacent Yamabuki Bakery.</Text>
+		</Row>
+		<Row Tag="LOC_THEATER_YAMABUKI_BAKERY_CULTURE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Culture] culture from adjacent Yamabuki Bakery.</Text>
+		</Row>
+		<Row Tag="LOC_INDUSTRY_YAMABUKI_BAKERY_PRODUCTION_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Production] production from adjacent Yamabuki Bakery.</Text>
+		</Row>
+		<Row Tag="LOC_YAMABUKI_BAKERY_GOLD_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Gold] gold from adjacent Yamabuki Bakery.</Text>
+		</Row>
+		<Row Tag="LOC_SHOPPING_STREET_CITY_CENTER_FOOD_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Food] food from adjacent city center.</Text>
+		</Row>
+		<Row Tag="LOC_SHOPPING_STREET_CITY_CENTER_GOLD_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Gold] gold from adjacent city center.</Text>
+		</Row>
+		<Row Tag="LOC_SHOPPING_STREET_COMMERCIAL_HUB_GOLD_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Gold] gold from adjacent commercial hub.</Text>
+		</Row>
+		<Row Tag="LOC_SHOPPING_STREET_ENTERTAINMENT_GOLD_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Gold] gold from adjacent entertainment complex.</Text>
+		</Row>
+		<Row Tag="LOC_SHOPPING_STREET_SHOPPING_STREET_GOLD_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Gold] gold from adjacent shopping street.</Text>
+		</Row>
+		<Row Tag="LOC_SHOPPING_STREET_SHOPPING_STREET_FOOD_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Food] food from adjacent shopping street.</Text>
+		</Row>
+		<Row Tag="LOC_KASUMI_PROPHET_POINT_FROM_MET_CIVS" Language="en_US">
+			<Text>+{1_iBonus} {2_YieldIcon} from the {3_AdjacentSubjectNum} Civilizations you've met.</Text>
+		</Row>
+		<Row Tag="LOC_TAE_YIELD_FROM_TOTAL_PARKS_gkls621" Language="en_US">
+			<Text>+{1_iBonus} {2_YieldIcon} from the {3_AdjacentSubjectNum} National Parks you've built.</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_KASUMI_gkls621_QUOTE" Language="en_US">
+			<Text>Striking shiny, heart-pounding![NEWLINE](Kira kira, doki doki!)</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_ARISA_gkls621_QUOTE" Language="en_US">
+			<Text>Really... why are you telling me this?</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TAE_gkls621_QUOTE" Language="en_US">
+			<Text>It's so sad to eat rabbits, I can't do it.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SAAYA_gkls621_QUOTE" Language="en_US">
+			<Text>Using a rolling pin as drumsticks? Just kidding!</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_RIMI_gkls621_QUOTE" Language="en_US">
+			<Text>It's okay, chocolate cornets go to a separate stomach~</Text>
+		</Row>
+		
+		<!--Loading Info-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_KASUMI_gkls621" Language="en_US">
+			<Text>Kasumi Toyama, the celebrated "Founder", soul of the great girl band era! Following the starlight in your heart, you boldly forge ahead, uniting companions to reignite musical dreams. But real stories aren't just about harmony—they encompass sudden changes in daily life and new worldviews awaiting your exploration. Wherever you go, your influence spreads like fragrance along an ancient path.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_ARISA_gkls621" Language="en_US">
+			<Text>Arisa Ichigaya, bidding farewell to Tonegawa, returns to dreams and welcomes a shining star. Your expertise in bonsai, academics, and warehouse management is undeniable—but did you recall piano days rewarded by star stickers while honing those skills? Fortunately, new friendships rekindled lost passions. Now all know behind your sharp tongue lies warmth, like filled chocolates enhancing perfection.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TAE_gkls621" Language="en_US">
+			<Text>Tae Hanazono, the purest guitar hero, crossing intersections of solitude and bustle, adorning tomorrows with serendipitous whimsy. Every rabbit's movement reveals mysteries; you coexist with them, striving to build a lush Hanazono LAND. In this mutual journey, you grasp profound rhetoric philosophy. Guard the sanctuary with rabbits, defend friendships with bandmates, unleash resonance with nature.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SAAYA_gkls621" Language="en_US">
+			<Text>Maillard's sweet aroma leaps through streets, bakery lights glow before queues reach. Saaya Yamabuki, while band girls joyfully devour bread, your musical dream breaks free from family duties, returning behind the drum kit. This world brims with opportunities and stages; balancing both is profound, but you, seasoned from early responsibility, have mastered the art. Roll the world, drumstick by drumstick.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_RIMI_gkls621" Language="en_US">
+			<Text>Rimi Ushigome, synonymous with chocolate cornets—yet humans are multidimensional, embracing horror films, Kansai charm, and ninja dreams. Growth means shedding habitual dependence, standing firm without fear of loss. Facing past and future filled with partings, how you overcame challenges with friends' hands before, now demands united resolve to shape your destiny!</Text>
+		</Row>
+
+		<!--Civilopedia Part-->
+		<Row Tag="LOC_CIVINFO_PPP_gkls621_LOCATION" Language="en_US">
+			<Text>Mainly performing at Livehouse Circle, but Space, Ring, etc., also witness the band's growth.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PPP_gkls621_SIZE" Language="en_US">
+			<Text>LOVING EVERYone!</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PPP_gkls621_POPULATION" Language="en_US">
+			<Text>5 members (not including "sixth" members like Rokka Asahi)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PPP_gkls621_CAPITAL" Language="en_US">
+			<Text>Ryuseido, where Kasumi obtained Random Star (and more importantly, Arisa)</Text>
+		</Row>
+		<!--Leader quote in Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KASUMI_gkls621_QUOTE" Language="en_US">
+			<Text>キラキラ、ドキドキ！[NEWLINE](Kira kira, doki doki!)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARISA_gkls621_QUOTE" Language="en_US">
+			<Text>Really... why are you telling me this?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAE_gkls621_QUOTE" Language="en_US">
+			<Text>It's so sad to eat rabbits, I can't do it.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAAYA_gkls621_QUOTE" Language="en_US">
+			<Text>Using a rolling pin as drumsticks? Just kidding!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RIMI_gkls621_QUOTE" Language="en_US">
+			<Text>It's okay, chocolate cornets go to a separate stomach♪(´▽｀)</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PPP_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>As the guitarist and vocalist, Kasumi Toyama had always been searching for something that sparkled and made her heart race, like the "Star's Pulse" she heard while stargazing as a child. This led to the formation of the band. Though their skills needed improvement and experience was lacking, the members—besides Kasumi, included Tae Hanazono who loved music, Rimi Ushigome who wanted to overcome her negative traits, gentle and family-oriented Saaya Yamabuki, and contradictory yet sincere Arisa Ichigaya—poured their feelings into music. This shining five-member high school girl band in the era of girl bands sings daily to convey more heart-fluttering moments.</Text>
+		</Row>
+		<!--Leader introduction-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KASUMI_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kasumi Toyama, leader, vocalist, rhythm guitarist, and lyricist of Poppin' Party, also the main protagonist of BanG Dream! series. As a child camping, she and her sister Asuka heard the Star's Pulse, leading her to constantly seek sparkling, heart-throbbing things (Kasumi-speak), ultimately founding Poppin' Party.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KASUMI_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Loves adventure and karaoke. Favorite foods: french fries, white rice; hates natto. Has unique "Kasumi-speak" vocabulary.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KASUMI_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Impulsive, outgoing enough to befriend all girls, but afraid of ghosts; hairstyle shaped like two-pointed star, but afraid of flying.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KASUMI_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>From tracking Arisa's sticker to Ryuseido, gathering bandmates, honing guitar skills, filling in for Glitter☆Green to sing "Twinkle Twinkle," and finally reaching Budokan—she gained friendships (and more) while pioneering an entire era of girl bands.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KASUMI_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>(Collated from Fandom, Moegirl Encyclopedia)</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARISA_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Arisa Ichigaya, keyboardist of Poppin'Party, contemporary tsundere icon, widely recognized as Kasumi's soulmate. Currently serves as vice-president of Hanasakigawa Girls' School student council.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARISA_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Granddaughter of the pawnshop "Ryuseido" family. Indoor enthusiast with bonsai and internet as hobbies, rarely goes out but excels at盆栽 and academics due to good education.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARISA_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Learned piano as child, outstanding performer who earned most star stickers, but abandoned instrument for studies until meeting Kasumi reignited her musical sense.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARISA_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Very sarcastic, band's exclusive critic, especially harsh towards Kasumi; but merely struggles with honesty. Sold beloved盆栽 to buy synthesizer.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARISA_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>(Collated from Moegirl Encyclopedia)[NEWLINE][NEWLINE][NEWLINE][NEWLINE][NEWLINE][NEWLINE][NEWLINE][NEWLINE]Really... why are you telling me this?[NEWLINE]Nothing, just citing sources.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAE_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Lead guitarist of Poppin' Party, music-loving powerhouse, started learning guitar in elementary school, works at LiveHouse in high school. Nickname "Otae" (not "Otea").</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAE_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Obsessed with rabbits (Bunnies so cute, how can you eat bunnies). Keeps twenty rabbits as family, naming each and knowing their traits. Once stated dream is to live on rabbit-filled island.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAE_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Appears serious but thinks on different wavelength—"natural/denpa type." Often links real scenes to rabbits, even encountering magical creatures.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAE_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Loves hamburger steak, always recommends when asked about food, yet not picky—eats anything.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAE_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Was scouted by Chu² for RAISE A SUILEN but declined to abandon Poppin' Party, ultimately returning.[NEWLINE](From Moegirl Encyclopedia)</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAAYA_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Drummer of Poppin' Party, face of Yamabuki Bakery. Balances work and study, helping at bakery while attending high school, renowned throughout shopping district.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAAYA_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Formed band CHiSPA in middle school with Natsuki Uno, Mayu Kawabata, Bunka Mori, but debut Live interrupted by mother's hospitalization; later quit band fearing mother's health and burdening members. Inspired by Kasumi, resumed band life and reconciled with CHiSPA friends.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAAYA_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Gentle personality, caring for friends, Kasumi's confidante. Has younger siblings to care for.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAAYA_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Yamabuki Bakery may be BanG Dream!'s top eatery. Its chocolate cornets, Rimi devours endlessly; Moca Aoba consumes with iron stomach; Kasumi sniffs Saaya for new bread scents.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAAYA_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>(Collated from Moegirl Encyclopedia)</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RIMI_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Rimi Ushigome, bassist of Poppin' Party. From Kansai, occasionally slips into dialect.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RIMI_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Loves chocolate cornets, especially Yamabuki Bakery's, claims "separate stomach for chocolate cornet." Chocolate cornets thread through Rimi's life, becoming her symbol. Also loves meat and fresh cream.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RIMI_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Timid, shy personality. Ironically obsessed with horror films.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RIMI_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Learned bass from sister Yuri Ushigome, using her inherited bass. Filling in for delayed Yuri, Rimi performed with Kasumi on bass, successfully meeting Glitter☆Green for upgraded "Twinkle Twinkle," overcoming timidity to join band.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RIMI_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>(Collated from Moegirl Encyclopedia)</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_RANDOM_STAR_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Random Star, Kasumi's guitar shaped like shooting star. Originally lying in Arisa's warehouse awaiting auction, it was preserved by Kasumi's moving persistence, becoming her main instrument.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_RYUSEIDO_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ryuseido, Arisa's family-run pawnshop, where Poppin' Party often rehearses.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INHERITOR_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>In BanG Dream!'s original concept, Random Star was Arisa's father's memento. His band disbanded before debut when drummer died unexpectedly; he abandoned music, married into pawnshop. Every year on father's memorial, Arisa displayed Random Star in shop window with star/arrow markings, hoping to guide someone special here.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RABBIT_BRIGADE_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Tae Hanazono has twenty rabbits at home; she once suggested bringing them onstage to enhance performances.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIMI_ZOMBIE_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Rimi loves horror films, where Zombies are key subgenre, blending Eastern folklore for unique variations. Hong Kong's "Taoist Exorcism" series was pan-Chinese hit; Japan's "The Ring" TV-crawling ghost Sadako became cultural icon.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_SHOPPING_STREET_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Shopping Street gathers band girls; Poppin'Party and Afterglow perform at events here. Modeled after Edogawabashi Jizodori Shopping Street.[NEWLINE]Features: Yamabuki Bakery (Saaya), Hazawa Cafe (Tsugumi, Eve, Chisato, Taki), Kitazawa Meat Shop (Hagumi), public bath "Asahi-yu" (Rokka), Live House Galaxy (Rokka, Masuki), Milky Way Produce (Masuki), and mascot Michelle (Misaki).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_YAMABUKI_BAKERY_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Yamabuki Bakery, run by Yamabuki family,  is a famous shop on Shopping Street. Products beloved by all—see "Leader" section for Saaya chapter.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+  			<Text>Glitter*Green is a band appearing in "BanG Dream!" and its derivative works, though the voice actors for the characters do not actually play instruments. They serve as the Horatio to BanG Dream! - the foundational witnesses who introduce the worldview before yielding the stage.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+  			<Text>Commonly known as グリグリ (guriguri), they are also written as Glitter☆Green. Making their debut in the first season of the anime, they are a band formed by upperclassmen at Kasumi's school who enjoy significant popularity among peers.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+  			<Text>The band consists of Yuri Ushigome (Gt. Vo.), Rī Ujikawa (Ba.), Nanami Wanibe (Key.), and Hinako Hatori (Dr.).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+  			<Text>All character voice actors are members of Milky Holmes, the voice actress unit from "Detective Opera Milky Holmes".</Text>
+		</Row>
+		<!--Agenda Names-->
+		<Row Tag="LOC_AGENDA_KASUMI_gkls621_NAME" Language="en_US">
+			<Text>Heart-Throbbing</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_KASUMI_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Likes all civilizations by default, but hates those attacking her allies.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ARISA_gkls621_NAME" Language="en_US">
+			<Text>I-It's Not Like I Like You</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ARISA_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Likes high-science civilizations, hates those overexploiting land.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TAE_gkls621_NAME" Language="en_US">
+			<Text>Natural Beauty</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TAE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Likes high-population civilizations, hates those pillaging others.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAAYA_gkls621_NAME" Language="en_US">
+			<Text>Housekeeper's Resolve</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAAYA_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Likes high-income civilizations, hates wealthy warmongers.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_RIMI_gkls621_NAME" Language="en_US">
+			<Text>Heart of Chocolate Cornet</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_RIMI_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Likes civilizations not converting her, hates religious aggressors.</Text>
+		</Row>
+
+		<!--Diplomatic Text-->
+		<!--Kasumi-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_KASUMI_gkls621_AGENDA_LIKE_EVERYONE" Language="en_US">
+			<Text>You're really gerigeri-chu, super da-wa╰(☆o☆)╯</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_KASUMI_gkls621_AGENDA_DENOUNCED_FRIEND" Language="en_US">
+			<Text>Our friends are not to be harmed!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_KASUMI_gkls621_AGENDA_LIKE_EVERYONE" Language="en_US">
+			<Text>She likes all civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_KASUMI_gkls621_AGENDA_DENOUNCED_FRIEND" Language="en_US">
+			<Text>She hates civilizations harming her allies.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Let's all sparkle and pulse together!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Sorry...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Let's search for the world's stars together!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Let's all sparkle and pulse together!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Sorry...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Against destroyers of the girl band worldview—fists out, attack!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Against destroyers of the girl band worldview—fists out, attack!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Dreams... can't even shout slogans anymore...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Dreams... can't even shout slogans anymore...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Wow, what a GIFT with jingling soul of stars! Thank you~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Eeeeh, this gadget might not come to my need...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Ta-dah! Our delegation brings a 1:1 replica of Random Star, polished sparkling shiny—with Popipa autographs!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Huh? Wait wait wait...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Huh? Wait wait wait...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Ya-hoo~ I'm Kasumi Toyama—oh, oh, oh, your eyes have the Star's Pulse!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Since you're here, come see our rehearsal spot! I have ten thousand ways to get Arisa to... hehe</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Great success, Lu☆cky!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Perfect time for introductions! When I looked up at stars as a kid, I heard the Star's Pulse...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Ooh, what a coincidence!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Yeayyy, starry feeling!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Wh-what's this?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_KASUMI_gkls621_ANY" Language="en_US">
+			<Text>Yay, everyone coming for hugs? Here I—ahh ahh—</Text>
+		</Row>
+		<!--Arisa-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ARISA_gkls621_AGENDA_HIGH_SCIENCE" Language="en_US">
+			<Text>Hmph, barely deserve a "not bad." Next time won't be so easy!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ARISA_gkls621_AGENDA_EXPLOITATION" Language="en_US">
+			<Text>Ugh, flowers aren't for you to ruin!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ARISA_gkls621_AGENDA_HIGH_SCIENCE" Language="en_US">
+            <Text>She likes civilizations with high science output.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ARISA_gkls621_AGENDA_EXPLOITATION" Language="en_US">
+            <Text>She's displeased with your destructive development.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>Wha- I haven't... haven't acknowledged you... Fine, I admit it (blushing)</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>I-It's not like I like you!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>Seems there's another person I'll need to rack my brains to surprise...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>Eh? D-Don't get so excited!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>No! Let me emphasize - NO!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>Damn it, at this point I absolutely can't tolerate this anymore!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>Damn it, at this point I absolutely can't tolerate this anymore!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>I never said "surrender," I-I was just temporarily— Shut up! Ugh, that's not what I meant...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>I never said "surrender," I-I was just temporarily— Shut up! Ugh, that's not what I meant...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>Well, anyway, th-thank you! (blushing)</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>No—way—!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>Here's a newly potted fir tree we grew—it's taking up space anyway, you can have it[NEWLINE]—if you let it die, I won't be polite!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>How outrageous!!!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>How outrageous!!!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>I'm Arisa Ichigaya... Though... though someone forced me into the next part... Anyway, I play keyboards in Poppin' Party, thanks!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>I usually stay at Ryuseido... What? That's not a place for random people! What, you're not random... Hmm...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>I never said I wanted to come... Ah, fine, it's just embarrassing...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>Fine, I'll tell you secretly; promise me today's conversation stays confidential!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_GREETING_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>Eh? *cough* Nice weather today.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>Seriously, are you waiting for me to praise you...?</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>Hmph, I r-really don't like you!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ARISA_gkls621_ANY" Language="en_US">
+            <Text>Ah? What are you trying to do? Stay away from me, you're so noisy!</Text>
+        </Row>
+        <!--Tae-->
+        <Row Tag="LOC_DIPLO_KUDO_LEADER_TAE_gkls621_AGENDA_HIGH_POPULATION" Language="en_US">
+            <Text>Your land is as lively as when my twenty rabbits dig simultaneously, so adorable~</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_LEADER_TAE_gkls621_AGENDA_HIGH_PILLAGE" Language="en_US">
+            <Text>If you keep destroying like this, a nation's right to obtain delicious hamburgers and rabbit feed through agriculture will be ruined by you...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_TAE_gkls621_HIGH_FOOD_POPULATION" Language="en_US">
+            <Text>She likes civilizations with large populations.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_TAE_gkls621_LOW_FOOD_POPULATION" Language="en_US">
+            <Text>She hates civilizations that plunder others' territories.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Feels like even ten O-chan couldn't outrun me tomorrow!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Hmm mm, not possible~ Look, even Shi-chan is shaking her head!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>From now on—not tomorrow—when I find an island full of rabbits, I'll invite you to join!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Feels like even ten O-chan couldn't outrun me tomorrow!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Hmm mm, not possible~ Look, even Shi-chan is shaking her head!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Eh? Your troops' hair is messier than tangled cables; but this time, I won't provide any combs!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Today, I carefully cleaned my guitar, changed strings, searched my mental music library—just to righteously conquer you!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Really... going somewhere far away? Without even becoming a grandma playing in a band? Goodbye O-chan, maybe I really did "set you on the treadmill"...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Really... going somewhere far away? Without even becoming a grandma playing in a band? Goodbye O-chan, maybe I really did "set you on the treadmill"...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Your delegation excites me like my rabbits chewing carrots!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>O-chan agrees with me, today's not good for visitors.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Our delegation includes my beloved Shiro. It performs "meat hoop jumps"—jumping through hamburger patties with only the rims left. How to have a burger rim? Shiro doesn't eat meat~</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Feedback without a guitar? You...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Feedback without a guitar? You...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>I'm Tae Hanazono~ Rabbit chew toys have gotten expensive lately... Oh, not advertising!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Want to see our city? Its borders look like countless running rabbits...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Wonder if your nation appreciates hamburgers with eggs too?</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Take my guitar pick. Guitar picks are like rabbit teeth—endless supply!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_GREETING_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Good morning~ Here are greetings from the rabbits: Morning, morning,... (repeat ×20)</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>My secret trick: playing "Initial" to veggie leaves helps rabbits absorb vitamins.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>I can't get no satisfaction, I wanna paint everything black. Gimme shelter, been walkin' in Central Park...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TAE_gkls621_ANY" Language="en_US">
+            <Text>Cornered rabbits bite, let alone me protecting them... Showdown time!</Text>
+        </Row>
+        <!--Saaya-->
+        <Row Tag="LOC_DIPLO_KUDO_LEADER_SAAYA_gkls621_AGENDA_HIGH_INCOME" Language="en_US">
+            <Text>Profitability is an art. I've learned much from your steadfastness.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_LEADER_SAAYA_gkls621_AGENDA_HIGH_INCOME_BUT_INVADES" Language="en_US">
+            <Text>Wealth without virtue not only betrays family admiration but spreads disaster.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAAYA_gkls621_HIGH_INCOME" Language="en_US">
+            <Text>She favors civilizations with high income.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAAYA_gkls621_HIGH_INCOME_BUT_INVADES" Language="en_US">
+            <Text>She despises wealthy civilizations that declare surprise wars on others.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>With your help, bakery business and band schedules won't be problems anymore!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Sorry, while I yearn for it, considering family and band duties, I must decline.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Perhaps young love isn't heartfelt but eye-driven. No matter, ours is soul-to-soul.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+           <Text>With your help, bakery business and band schedules won't be problems anymore!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Sorry, while I yearn for it, considering family and band duties, I must decline.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Fire-breathing behind drums may be unrealistic, but unleashing fury against your aggression... worth it.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Fire-breathing behind drums may be unrealistic, but unleashing fury against your aggression... worth it.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Ahaha... words fail. Sana and Jun are young, Kasumi knows nothing... Spare them...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Ahaha... words fail. Sana and Jun are young, Kasumi knows nothing... Spare them...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Your gift is so thoughtful!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Band practice today, need to prepare tomorrow's bread, apologies.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Honored to introduce Yamabuki Bakery classics: chocolate cornets and melon bread. Also new items like "Poppin' Bread"—a meal-like bread set.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Ahaha...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Ahaha...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Saaya Yamabuki greets you! Eaten right?</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Hungry? Our city's nearby—come visit for fresh-baked bread! Any variety~</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Actually came to buy premium flour... Getting scarcer nowadays...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Time's tight—our meeting story must be brief; let's exchange understanding for lasting connection.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_GREETING_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>(From afar) Hello————want some bread————?</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Your courage facing life is what I long lacked.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Oh! Kasumi emergency call! Must go.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SAAYA_gkls621_ANY" Language="en_US">
+            <Text>Sorry, bakery's closed. "Just here for bread" won't cut it!</Text>
+        </Row>
+        <!--RIMI-->
+        <Row Tag="LOC_DIPLO_KUDO_LEADER_RIMI_gkls621_AGENDA_RELIGION_NOT_RECEIVED" Language="en_US">
+            <Text>Next time, try our chocolate cornets! Preferably Yamabuki Bakery's!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_LEADER_RIMI_gkls621_AGENDA_RELIGION_RECEIVED" Language="en_US">
+            <Text>Ser-seriously, I'll never tire of chocolate cornets!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_RIMI_gkls621_AGENDA_RELIGION_NOT_RECEIVED" Language="en_US">
+            <Text>You respected Rimi's beliefs.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_RIMI_gkls621_AGENDA_RELIGION_RECEIVED" Language="en_US">
+            <Text>Rimi resents you imposing beliefs upon her.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Hard finding friends these days. Besides Popipa, you're number one!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Sorry, still learning to say no.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Amazing meeting someone who shares all my interests!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Hard finding friends these days. Besides Popipa, you're number one!~</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Sorry, still learning to say no.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Seen grotesque evils in horror films, but your mediocre shamelessness... unprecedented.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Seen grotesque evils in horror films, but your mediocre shamelessness... unprecedented.</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Thought I'd known sorrow, but this time... no chance to find partners or overcome challenges...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Thought I'd known sorrow, but this time... no chance to find partners or overcome challenges...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Well, thanks for caring!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Could've chatted about chocolate...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Our delegation brings exotic chocolates—Venezuela to Ghana! Plus Yamabuki's signature chocolate cornets. You'll love them!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Not cool...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Not cool...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>I'm Rimi Ushigome, bassist of Poppin' Party, progressing every day. You seem very reliable!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Popipa, GliGre and Kaoru-san perform here. Come visit?</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Planning to visit rental shops worldwide for obscure horror films... Your city's next...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Want a chocolate cornet? You try first—if good, have more!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_GREETING_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Hello, how may I assist?</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>This feeling... happiness...</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Might seem shy, but I'll stand up!</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_RIMI_gkls621_ANY" Language="en_US">
+            <Text>Wanna become a chocolate cornet?</Text>
+        </Row>
+    </LocalizedText>
+</GameData>

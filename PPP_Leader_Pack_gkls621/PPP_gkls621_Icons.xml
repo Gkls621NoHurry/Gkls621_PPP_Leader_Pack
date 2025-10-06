@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GameData>
+    <IconTextureAtlases>
+        <!--Civilisation-->
+        <Row Name="ATLAS_CIVILIZATION_PPP_gkls621" IconSize="22" Filename="CIVILIZATION_PPP_gkls621_22"/>
+        <Row Name="ATLAS_CIVILIZATION_PPP_gkls621" IconSize="30" Filename="CIVILIZATION_PPP_gkls621_30"/>
+        <Row Name="ATLAS_CIVILIZATION_PPP_gkls621" IconSize="32" Filename="CIVILIZATION_PPP_gkls621_32"/>
+        <Row Name="ATLAS_CIVILIZATION_PPP_gkls621" IconSize="36" Filename="CIVILIZATION_PPP_gkls621_36"/>
+        <Row Name="ATLAS_CIVILIZATION_PPP_gkls621" IconSize="44" Filename="CIVILIZATION_PPP_gkls621_44"/>
+        <Row Name="ATLAS_CIVILIZATION_PPP_gkls621" IconSize="45" Filename="CIVILIZATION_PPP_gkls621_45"/>
+        <Row Name="ATLAS_CIVILIZATION_PPP_gkls621" IconSize="48" Filename="CIVILIZATION_PPP_gkls621_48"/>
+        <Row Name="ATLAS_CIVILIZATION_PPP_gkls621" IconSize="50" Filename="CIVILIZATION_PPP_gkls621_50"/>
+        <Row Name="ATLAS_CIVILIZATION_PPP_gkls621" IconSize="64" Filename="CIVILIZATION_PPP_gkls621_64"/>
+        <Row Name="ATLAS_CIVILIZATION_PPP_gkls621" IconSize="80" Filename="CIVILIZATION_PPP_gkls621_80"/>
+        <Row Name="ATLAS_CIVILIZATION_PPP_gkls621" IconSize="128" Filename="CIVILIZATION_PPP_gkls621_128"/>
+        <Row Name="ATLAS_CIVILIZATION_PPP_gkls621" IconSize="200" Filename="CIVILIZATION_PPP_gkls621_200"/>
+        <Row Name="ATLAS_CIVILIZATION_PPP_gkls621" IconSize="256" Filename="CIVILIZATION_PPP_gkls621_256"/>
+        <!--Leaders-->
+        <Row Name="ATLAS_LEADER_KASUMI_gkls621" IconSize="32" Filename="LEADER_KASUMI_gkls621_32"/>
+        <Row Name="ATLAS_LEADER_KASUMI_gkls621" IconSize="45" Filename="LEADER_KASUMI_gkls621_45"/>
+        <Row Name="ATLAS_LEADER_KASUMI_gkls621" IconSize="48" Filename="LEADER_KASUMI_gkls621_48"/>
+        <Row Name="ATLAS_LEADER_KASUMI_gkls621" IconSize="50" Filename="LEADER_KASUMI_gkls621_50"/>
+        <Row Name="ATLAS_LEADER_KASUMI_gkls621" IconSize="55" Filename="LEADER_KASUMI_gkls621_55"/>
+        <Row Name="ATLAS_LEADER_KASUMI_gkls621" IconSize="64" Filename="LEADER_KASUMI_gkls621_64"/>
+        <Row Name="ATLAS_LEADER_KASUMI_gkls621" IconSize="80" Filename="LEADER_KASUMI_gkls621_80"/>
+        <Row Name="ATLAS_LEADER_KASUMI_gkls621" IconSize="256" Filename="LEADER_KASUMI_gkls621_256"/>
+        <Row Name="ATLAS_LEADER_ARISA_gkls621" IconSize="32" Filename="LEADER_ARISA_gkls621_32"/>
+        <Row Name="ATLAS_LEADER_ARISA_gkls621" IconSize="45" Filename="LEADER_ARISA_gkls621_45"/>
+        <Row Name="ATLAS_LEADER_ARISA_gkls621" IconSize="48" Filename="LEADER_ARISA_gkls621_48"/>
+        <Row Name="ATLAS_LEADER_ARISA_gkls621" IconSize="50" Filename="LEADER_ARISA_gkls621_50"/>
+        <Row Name="ATLAS_LEADER_ARISA_gkls621" IconSize="55" Filename="LEADER_ARISA_gkls621_55"/>
+        <Row Name="ATLAS_LEADER_ARISA_gkls621" IconSize="64" Filename="LEADER_ARISA_gkls621_64"/>
+        <Row Name="ATLAS_LEADER_ARISA_gkls621" IconSize="80" Filename="LEADER_ARISA_gkls621_80"/>
+        <Row Name="ATLAS_LEADER_ARISA_gkls621" IconSize="256" Filename="LEADER_ARISA_gkls621_256"/>
+        <Row Name="ATLAS_LEADER_TAE_gkls621" IconSize="32" Filename="LEADER_TAE_gkls621_32"/>
+        <Row Name="ATLAS_LEADER_TAE_gkls621" IconSize="45" Filename="LEADER_TAE_gkls621_45"/>
+        <Row Name="ATLAS_LEADER_TAE_gkls621" IconSize="48" Filename="LEADER_TAE_gkls621_48"/>
+        <Row Name="ATLAS_LEADER_TAE_gkls621" IconSize="50" Filename="LEADER_TAE_gkls621_50"/>
+        <Row Name="ATLAS_LEADER_TAE_gkls621" IconSize="55" Filename="LEADER_TAE_gkls621_55"/>
+        <Row Name="ATLAS_LEADER_TAE_gkls621" IconSize="64" Filename="LEADER_TAE_gkls621_64"/>
+        <Row Name="ATLAS_LEADER_TAE_gkls621" IconSize="80" Filename="LEADER_TAE_gkls621_80"/>
+        <Row Name="ATLAS_LEADER_TAE_gkls621" IconSize="256" Filename="LEADER_TAE_gkls621_256"/>
+        <Row Name="ATLAS_LEADER_SAAYA_gkls621" IconSize="32" Filename="LEADER_SAAYA_gkls621_32"/>
+        <Row Name="ATLAS_LEADER_SAAYA_gkls621" IconSize="45" Filename="LEADER_SAAYA_gkls621_45"/>
+        <Row Name="ATLAS_LEADER_SAAYA_gkls621" IconSize="48" Filename="LEADER_SAAYA_gkls621_48"/>
+        <Row Name="ATLAS_LEADER_SAAYA_gkls621" IconSize="50" Filename="LEADER_SAAYA_gkls621_50"/>
+        <Row Name="ATLAS_LEADER_SAAYA_gkls621" IconSize="55" Filename="LEADER_SAAYA_gkls621_55"/>
+        <Row Name="ATLAS_LEADER_SAAYA_gkls621" IconSize="64" Filename="LEADER_SAAYA_gkls621_64"/>
+        <Row Name="ATLAS_LEADER_SAAYA_gkls621" IconSize="80" Filename="LEADER_SAAYA_gkls621_80"/>
+        <Row Name="ATLAS_LEADER_SAAYA_gkls621" IconSize="256" Filename="LEADER_SAAYA_gkls621_256"/>
+        <Row Name="ATLAS_LEADER_RIMI_gkls621" IconSize="32" Filename="LEADER_RIMI_gkls621_32"/>
+        <Row Name="ATLAS_LEADER_RIMI_gkls621" IconSize="45" Filename="LEADER_RIMI_gkls621_45"/>
+        <Row Name="ATLAS_LEADER_RIMI_gkls621" IconSize="48" Filename="LEADER_RIMI_gkls621_48"/>
+        <Row Name="ATLAS_LEADER_RIMI_gkls621" IconSize="50" Filename="LEADER_RIMI_gkls621_50"/>
+        <Row Name="ATLAS_LEADER_RIMI_gkls621" IconSize="55" Filename="LEADER_RIMI_gkls621_55"/>
+        <Row Name="ATLAS_LEADER_RIMI_gkls621" IconSize="64" Filename="LEADER_RIMI_gkls621_64"/>
+        <Row Name="ATLAS_LEADER_RIMI_gkls621" IconSize="80" Filename="LEADER_RIMI_gkls621_80"/>
+        <Row Name="ATLAS_LEADER_RIMI_gkls621" IconSize="256" Filename="LEADER_RIMI_gkls621_256"/>
+        <!--Districts-->
+        <Row Name="ATLAS_ICON_DISTRICT_SHOPPING_STREET_gkls621" IconSize="22" Filename="ICON_DISTRICT_SHOPPING_STREET_gkls621_22"/>
+        <Row Name="ATLAS_ICON_DISTRICT_SHOPPING_STREET_gkls621" IconSize="32" Filename="ICON_DISTRICT_SHOPPING_STREET_gkls621_32"/>
+        <Row Name="ATLAS_ICON_DISTRICT_SHOPPING_STREET_gkls621" IconSize="38" Filename="ICON_DISTRICT_SHOPPING_STREET_gkls621_38"/>
+        <Row Name="ATLAS_ICON_DISTRICT_SHOPPING_STREET_gkls621" IconSize="50" Filename="ICON_DISTRICT_SHOPPING_STREET_gkls621_50"/>
+        <Row Name="ATLAS_ICON_DISTRICT_SHOPPING_STREET_gkls621" IconSize="80" Filename="ICON_DISTRICT_SHOPPING_STREET_gkls621_80"/>
+        <Row Name="ATLAS_ICON_DISTRICT_SHOPPING_STREET_gkls621" IconSize="128" Filename="ICON_DISTRICT_SHOPPING_STREET_gkls621_128"/>
+        <Row Name="ATLAS_ICON_DISTRICT_SHOPPING_STREET_gkls621" IconSize="256" Filename="ICON_DISTRICT_SHOPPING_STREET_gkls621_256"/>
+		<Row Name="ATLAS_ICON_DISTRICT_YAMABUKI_BAKERY_gkls621" IconSize="22" Filename="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_22"/>
+		<Row Name="ATLAS_ICON_DISTRICT_YAMABUKI_BAKERY_gkls621" IconSize="32" Filename="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_32"/>
+		<Row Name="ATLAS_ICON_DISTRICT_YAMABUKI_BAKERY_gkls621" IconSize="38" Filename="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_38"/>
+		<Row Name="ATLAS_ICON_DISTRICT_YAMABUKI_BAKERY_gkls621" IconSize="50" Filename="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_50"/>
+		<Row Name="ATLAS_ICON_DISTRICT_YAMABUKI_BAKERY_gkls621" IconSize="80" Filename="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_80"/>
+		<Row Name="ATLAS_ICON_DISTRICT_YAMABUKI_BAKERY_gkls621" IconSize="128" Filename="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_128"/>
+		<Row Name="ATLAS_ICON_DISTRICT_YAMABUKI_BAKERY_gkls621" IconSize="256" Filename="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_256"/>
+        <!--Units-->
+        <Row Name="ATLAS_UNIT_INHERITOR_gkls621" IconSize="22" Filename="UNIT_INHERITOR_gkls621_22"/>
+        <Row Name="ATLAS_UNIT_INHERITOR_gkls621" IconSize="32" Filename="UNIT_INHERITOR_gkls621_32"/>
+        <Row Name="ATLAS_UNIT_INHERITOR_gkls621" IconSize="38" Filename="UNIT_INHERITOR_gkls621_38"/>
+        <Row Name="ATLAS_UNIT_INHERITOR_gkls621" IconSize="50" Filename="UNIT_INHERITOR_gkls621_50"/>
+        <Row Name="ATLAS_UNIT_INHERITOR_gkls621" IconSize="80" Filename="UNIT_INHERITOR_gkls621_80"/>
+        <Row Name="ATLAS_UNIT_INHERITOR_gkls621" IconSize="256" Filename="UNIT_INHERITOR_gkls621_256"/>
+        <Row Name="ATLAS_UNIT_RABBIT_BRIGADE_gkls621" IconSize="22" Filename="UNIT_RABBIT_BRIGADE_gkls621_22"/>
+        <Row Name="ATLAS_UNIT_RABBIT_BRIGADE_gkls621" IconSize="32" Filename="UNIT_RABBIT_BRIGADE_gkls621_32"/>
+        <Row Name="ATLAS_UNIT_RABBIT_BRIGADE_gkls621" IconSize="38" Filename="UNIT_RABBIT_BRIGADE_gkls621_38"/>
+        <Row Name="ATLAS_UNIT_RABBIT_BRIGADE_gkls621" IconSize="50" Filename="UNIT_RABBIT_BRIGADE_gkls621_50"/>
+        <Row Name="ATLAS_UNIT_RABBIT_BRIGADE_gkls621" IconSize="80" Filename="UNIT_RABBIT_BRIGADE_gkls621_80"/>
+        <Row Name="ATLAS_UNIT_RABBIT_BRIGADE_gkls621" IconSize="256" Filename="UNIT_RABBIT_BRIGADE_gkls621_256"/>
+        <Row Name="ATLAS_UNIT_RIMI_ZOMBIE_gkls621" IconSize="22" Filename="UNIT_RIMI_ZOMBIE_gkls621_22"/>
+        <Row Name="ATLAS_UNIT_RIMI_ZOMBIE_gkls621" IconSize="32" Filename="UNIT_RIMI_ZOMBIE_gkls621_32"/>
+        <Row Name="ATLAS_UNIT_RIMI_ZOMBIE_gkls621" IconSize="38" Filename="UNIT_RIMI_ZOMBIE_gkls621_38"/>
+        <Row Name="ATLAS_UNIT_RIMI_ZOMBIE_gkls621" IconSize="50" Filename="UNIT_RIMI_ZOMBIE_gkls621_50"/>
+        <Row Name="ATLAS_UNIT_RIMI_ZOMBIE_gkls621" IconSize="80" Filename="UNIT_RIMI_ZOMBIE_gkls621_80"/>
+        <Row Name="ATLAS_UNIT_RIMI_ZOMBIE_gkls621" IconSize="256" Filename="UNIT_RIMI_ZOMBIE_gkls621_256"/>
+        <!--Unit Portraits-->
+        <Row Name="ATLAS_UNIT_INHERITOR_gkls621_PORTRAIT" IconSize="38" Filename="UNIT_INHERITOR_gkls621_PORTRAIT_38"/>
+        <Row Name="ATLAS_UNIT_INHERITOR_gkls621_PORTRAIT" IconSize="50" Filename="UNIT_INHERITOR_gkls621_PORTRAIT_50"/>
+        <Row Name="ATLAS_UNIT_INHERITOR_gkls621_PORTRAIT" IconSize="70" Filename="UNIT_INHERITOR_gkls621_PORTRAIT_70"/>
+        <Row Name="ATLAS_UNIT_INHERITOR_gkls621_PORTRAIT" IconSize="95" Filename="UNIT_INHERITOR_gkls621_PORTRAIT_95"/>
+        <Row Name="ATLAS_UNIT_INHERITOR_gkls621_PORTRAIT" IconSize="200" Filename="UNIT_INHERITOR_gkls621_PORTRAIT_200"/>
+        <Row Name="ATLAS_UNIT_INHERITOR_gkls621_PORTRAIT" IconSize="256" Filename="UNIT_INHERITOR_gkls621_PORTRAIT_256"/>
+        <Row Name="ATLAS_UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT" IconSize="38" Filename="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_38"/>
+        <Row Name="ATLAS_UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT" IconSize="50" Filename="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_50"/>
+        <Row Name="ATLAS_UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT" IconSize="70" Filename="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_70"/>
+        <Row Name="ATLAS_UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT" IconSize="95" Filename="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_95"/>
+        <Row Name="ATLAS_UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT" IconSize="200" Filename="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_200"/>
+        <Row Name="ATLAS_UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT" IconSize="256" Filename="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_256"/>
+        <Row Name="ATLAS_UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT" IconSize="38" Filename="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_38"/>
+        <Row Name="ATLAS_UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT" IconSize="50" Filename="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_50"/>
+        <Row Name="ATLAS_UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT" IconSize="70" Filename="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_70"/>
+        <Row Name="ATLAS_UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT" IconSize="95" Filename="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_95"/>
+        <Row Name="ATLAS_UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT" IconSize="200" Filename="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_200"/>
+        <Row Name="ATLAS_UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT" IconSize="256" Filename="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_256"/>
+        <!--Buildings-->
+        <Row Name="ATLAS_ICON_BUILDING_RANDOM_STAR_gkls621" IconSize="32" Filename="ICON_BUILDING_RANDOM_STAR_gkls621_32"/>
+        <Row Name="ATLAS_ICON_BUILDING_RANDOM_STAR_gkls621" IconSize="38" Filename="ICON_BUILDING_RANDOM_STAR_gkls621_38"/>
+        <Row Name="ATLAS_ICON_BUILDING_RANDOM_STAR_gkls621" IconSize="50" Filename="ICON_BUILDING_RANDOM_STAR_gkls621_50"/>
+        <Row Name="ATLAS_ICON_BUILDING_RANDOM_STAR_gkls621" IconSize="80" Filename="ICON_BUILDING_RANDOM_STAR_gkls621_80"/>
+        <Row Name="ATLAS_ICON_BUILDING_RANDOM_STAR_gkls621" IconSize="128" Filename="ICON_BUILDING_RANDOM_STAR_gkls621_128"/>
+        <Row Name="ATLAS_ICON_BUILDING_RANDOM_STAR_gkls621" IconSize="256" Filename="ICON_BUILDING_RANDOM_STAR_gkls621_256"/>
+        <!--Governors: in another file-->
+
+        <!--Resources-->
+        <Row Name="ATLAS_ICON_RESOURCE_CHOCO_CORNET_gkls621" Baseline="6" IconSize="22" Filename="ICON_RESOURCE_CHOCO_CORNET_gkls621_22"/>
+        <Row Name="ATLAS_ICON_RESOURCE_CHOCO_CORNET_gkls621" IconSize="38" Filename="ICON_RESOURCE_CHOCO_CORNET_gkls621_38"/>
+        <Row Name="ATLAS_ICON_RESOURCE_CHOCO_CORNET_gkls621" IconSize="50" Filename="ICON_RESOURCE_CHOCO_CORNET_gkls621_50"/>
+        <Row Name="ATLAS_ICON_RESOURCE_CHOCO_CORNET_gkls621" IconSize="64" Filename="ICON_RESOURCE_CHOCO_CORNET_gkls621_64"/>
+        <Row Name="ATLAS_ICON_RESOURCE_CHOCO_CORNET_gkls621" IconSize="256" Filename="ICON_RESOURCE_CHOCO_CORNET_gkls621_256"/>
+        <Row Name="ATLAS_ICON_RESOURCE_SAAYA_BREAD_gkls621" Baseline="6" IconSize="22" Filename="ICON_RESOURCE_SAAYA_BREAD_gkls621_22"/>
+        <Row Name="ATLAS_ICON_RESOURCE_SAAYA_BREAD_gkls621" IconSize="38" Filename="ICON_RESOURCE_SAAYA_BREAD_gkls621_38"/>
+        <Row Name="ATLAS_ICON_RESOURCE_SAAYA_BREAD_gkls621" IconSize="50" Filename="ICON_RESOURCE_SAAYA_BREAD_gkls621_50"/>
+        <Row Name="ATLAS_ICON_RESOURCE_SAAYA_BREAD_gkls621" IconSize="64" Filename="ICON_RESOURCE_SAAYA_BREAD_gkls621_64"/>
+        <Row Name="ATLAS_ICON_RESOURCE_SAAYA_BREAD_gkls621" IconSize="256" Filename="ICON_RESOURCE_SAAYA_BREAD_gkls621_256"/>
+    </IconTextureAtlases>
+    <IconDefinitions>
+        <!--Civilisation-->
+        <Row Name="ICON_CIVILIZATION_PPP_gkls621" Atlas="ATLAS_CIVILIZATION_PPP_gkls621" Index="0"/>
+        <!--Leaders-->
+        <Row Name="ICON_LEADER_KASUMI_gkls621" Atlas="ATLAS_LEADER_KASUMI_gkls621" Index="0"/>
+        <Row Name="ICON_LEADER_ARISA_gkls621" Atlas="ATLAS_LEADER_ARISA_gkls621" Index="0"/>
+        <Row Name="ICON_LEADER_TAE_gkls621" Atlas="ATLAS_LEADER_TAE_gkls621" Index="0"/>
+        <Row Name="ICON_LEADER_SAAYA_gkls621" Atlas="ATLAS_LEADER_SAAYA_gkls621" Index="0"/>
+        <Row Name="ICON_LEADER_RIMI_gkls621" Atlas="ATLAS_LEADER_RIMI_gkls621" Index="0"/>
+        <!--Districts-->
+        <Row Name="ICON_DISTRICT_SHOPPING_STREET_gkls621" Atlas="ATLAS_ICON_DISTRICT_SHOPPING_STREET_gkls621" Index="0"/>
+		<Row Name="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621" Atlas="ATLAS_ICON_DISTRICT_YAMABUKI_BAKERY_gkls621" Index="0"/>
+        <!--Units-->
+        <Row Name="ICON_UNIT_INHERITOR_gkls621" Atlas="ATLAS_UNIT_INHERITOR_gkls621" Index="0"/>
+        <Row Name="ICON_UNIT_RABBIT_BRIGADE_gkls621" Atlas="ATLAS_UNIT_RABBIT_BRIGADE_gkls621" Index="0"/>
+        <Row Name="ICON_UNIT_RIMI_ZOMBIE_gkls621" Atlas="ATLAS_UNIT_RIMI_ZOMBIE_gkls621" Index="0"/>
+        <!--Special: Glitter*Green-->
+        <Row Name="ICON_GREAT_PERSON_CLASS_GLITTER_GREEN_gkls621"		Atlas="ICON_ATLAS_GREAT_PERSON_CLASS"			Index="6"/>
+        <Row Name="ICON_GENERIC_GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621"				Atlas="ICON_ATLAS_GREAT_PERSON_INDIVIDUAL"	Index="4"	/>
+        <!--Unit Portraits-->
+        <Row Name="ICON_UNIT_INHERITOR_gkls621_PORTRAIT" Atlas="ATLAS_UNIT_INHERITOR_gkls621_PORTRAIT" Index="0"/>
+        <Row Name="ICON_UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT" Atlas="ATLAS_UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT" Index="0"/>
+        <Row Name="ICON_UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT" Atlas="ATLAS_UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT" Index="0"/>
+        <!--Buildings-->
+        <Row Name="ICON_BUILDING_RANDOM_STAR_gkls621" Atlas="ATLAS_ICON_BUILDING_RANDOM_STAR_gkls621" Index="0"/>
+        <Row Name="ICON_BUILDING_RYUSEIDO_gkls621" Atlas="ICON_ATLAS_BUILDINGS" Index="11"/>
+        <!--Resources-->
+        <Row Name="RESOURCE_CHOCO_CORNET_gkls621" Atlas="ATLAS_ICON_RESOURCE_CHOCO_CORNET_gkls621" Index="0"/>
+        <Row Name="ICON_RESOURCE_CHOCO_CORNET_gkls621" Atlas="ATLAS_ICON_RESOURCE_CHOCO_CORNET_gkls621" Index="0"/>
+        <Row Name="RESOURCE_SAAYA_BREAD_gkls621" Atlas="ATLAS_ICON_RESOURCE_SAAYA_BREAD_gkls621" Index="0"/>
+        <Row Name="ICON_RESOURCE_SAAYA_BREAD_gkls621" Atlas="ATLAS_ICON_RESOURCE_SAAYA_BREAD_gkls621" Index="0"/>
+        <!--Projects-->
+        <Row Name="ICON_PROJECT_TWINKLE_FOUNDER_gkls621"        Atlas="ICON_ATLAS_PROJECTS" Index="1"/>
+        <Row Name="ICON_PROJECT_TWINKLE_ENHANCER_gkls621"       Atlas="ICON_ATLAS_PROJECTS" Index="2"/>
+        <Row Name="ICON_PROJECT_TWINKLE_FOLLOWER_gkls621"		Atlas="ICON_ATLAS_XP2_PROJECTS" Index="6"/>
+        <Row Name="ICON_PROJECT_TWINKLE_PANTHEON_gkls621"	    Atlas="ICON_ATLAS_XP2_PROJECTS" Index="7"/>
+    </IconDefinitions>
+</GameData>

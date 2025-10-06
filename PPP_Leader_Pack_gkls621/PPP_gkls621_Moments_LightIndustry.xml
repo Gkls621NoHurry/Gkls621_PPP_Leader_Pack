@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PPP_gkls621_Moments_Yamabuki_Bakery -->
+<!-- Author: Geekless_621 -->
+<GameData>
+	<MomentIllustrations>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_DISTRICT" MomentDataType="MOMENT_DATA_DISTRICT" GameDataType="DISTRICT_YAMABUKI_BAKERY_gkls621" Texture="Moment_Infrastructure_Saaya_gkls621.dds"/>
+	</MomentIllustrations>
+</GameData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GameData>
+    <IconTextureAtlases>
+        <Row Name="ATLAS_ICON_GOVERNOR_YURI_gkls621_SLOT" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_YURI_gkls621_SLOT"/>
+        <Row Name="ATLAS_ICON_GOVERNOR_YURI_gkls621_FILL" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_YURI_gkls621_FILL"/>
+        <Row Name="ATLAS_ICON_GOVERNOR_YURI_gkls621_PROMOTION" IconSize="24" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_YURI_gkls621_PROMOTION"/>
+        <Row Name="ATLAS_ICON_GOVERNOR_YURI_gkls621_SLOT" Baseline="6" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_YURI_gkls621_SLOT_22"/>
+        <Row Name="ATLAS_ICON_GOVERNOR_YURI_gkls621_FILL" Baseline="6" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_YURI_gkls621_FILL_22"/>
+
+        <Row Name="ATLAS_ICON_GOVERNOR_YURI_gkls621" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_YURI_gkls621_22"/>
+        <Row Name="ATLAS_ICON_GOVERNOR_YURI_gkls621" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_YURI_gkls621_32"/>
+        <Row Name="ATLAS_ICON_GOVERNOR_YURI_gkls621" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_YURI_gkls621_64"/>
+    </IconTextureAtlases>
+    <IconDefinitions>
+        <Row Name="ICON_GOVERNOR_YURI_gkls621_SLOT" Atlas="ATLAS_ICON_GOVERNOR_YURI_gkls621_SLOT" Index="0"/>
+		<Row Name="ICON_GOVERNOR_YURI_gkls621_FILL" Atlas="ATLAS_ICON_GOVERNOR_YURI_gkls621_FILL" Index="0"/>
+		<Row Name="ICON_GOVERNOR_YURI_gkls621_PROMOTION" Atlas="ATLAS_ICON_GOVERNOR_YURI_gkls621_PROMOTION" Index="0"/>
+
+        <Row Name="ICON_GOVERNOR_YURI_gkls621" Atlas="ATLAS_ICON_GOVERNOR_YURI_gkls621" Index="0"/>
+    </IconDefinitions>
+    <IconAliases>
+        <Row Name="GOVERNOR_YURI_gkls621_SLOT" OtherName="ICON_GOVERNOR_YURI_gkls621_SLOT"/>
+		<Row Name="GOVERNOR_YURI_gkls621_FILL" OtherName="ICON_GOVERNOR_YURI_gkls621_FILL"/>
+    </IconAliases>
+</GameData>

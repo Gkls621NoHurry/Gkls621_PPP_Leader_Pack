@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text -->
+<!-- Author: Geekless_621 -->
+<GameData>
+    <LocalizedText>
+        <!--CIVILIZATION
+        Information-->
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>Poppin' Party</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>Poppin' Party</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_ADJECTIVE" Language="zh_Hant_HK">
+            <Text>PPP的</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_CIVILIZATION_PPP_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>星之鼓動</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_CIVILIZATION_PPP_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>[ICON_CivicBoosted] 鼓舞額外提供10%的 [ICON_Culture] 文化值。首次觸發 [ICON_CivicBoosted] 鼓舞時獲得一個[ICON_GreatWork_Relic] 遺物。遺物+3 [ICON_Faith] 信仰，+3 [ICON_Culture]文化。研究的每個市政為「帝國初期」與「政治哲學」提供10%的研究進度。與 [ICON_RESOURCE_ANTIQUITY_SITE][ICON_RESOURCE_SHIPWRECK] 文物單元格相鄰的學院、劇院廣場與聖地獲得+4相鄰加成。</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_1" Language="zh_Hant_HK">
+            <Text>Livehouse Circle</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_2" Language="zh_Hant_HK">
+            <Text>流星堂</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_3" Language="zh_Hant_HK">
+            <Text>兔子島</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_4" Language="zh_Hant_HK">
+            <Text>山吹麵包房</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_5" Language="zh_Hant_HK">
+            <Text>巧克力噴泉</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_6" Language="zh_Hant_HK">
+            <Text>戶山町</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_7" Language="zh_Hant_HK">
+            <Text>市谷町</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_8" Language="zh_Hant_HK">
+            <Text>花園町</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_9" Language="zh_Hant_HK">
+            <Text>山吹町</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_10" Language="zh_Hant_HK">
+            <Text>牛込町</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_11" Language="zh_Hant_HK">
+            <Text>花咲川女子學園</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_12" Language="zh_Hant_HK">
+            <Text>商店街</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_13" Language="zh_Hant_HK">
+            <Text>Livehouse Ring</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_14" Language="zh_Hant_HK">
+            <Text>多惠的兔子窩</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_15" Language="zh_Hant_HK">
+            <Text>有咲的倉庫</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_16" Language="zh_Hant_HK">
+            <Text>花咲川游泳部</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_17" Language="zh_Hant_HK">
+            <Text>胸突坂</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_18" Language="zh_Hant_HK">
+            <Text>江戶川樂器店</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_19" Language="zh_Hant_HK">
+            <Text>Livehouse Space</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_PPP_gkls621_CITY_20" Language="zh_Hant_HK">
+            <Text>武道館</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_1" Language="zh_Hant_HK">
+            <Text>戶山香澄</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_2" Language="zh_Hant_HK">
+            <Text>市谷有咲</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_3" Language="zh_Hant_HK">
+            <Text>花園多惠</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_4" Language="zh_Hant_HK">
+            <Text>山吹沙綾</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_5" Language="zh_Hant_HK">
+            <Text>牛込里美</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_6" Language="zh_Hant_HK">
+            <Text>戶山明日香</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_7" Language="zh_Hant_HK">
+            <Text>牛込百合</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_8" Language="zh_Hant_HK">
+            <Text>戶山香織</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_9" Language="zh_Hant_HK">
+            <Text>山吹紗南</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_10" Language="zh_Hant_HK">
+            <Text>鵜澤璃</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_11" Language="zh_Hant_HK">
+            <Text>鱷部七菜</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_12" Language="zh_Hant_HK">
+            <Text>二十騎雛子</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_13" Language="zh_Hant_HK">
+            <Text>海野夏希</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_14" Language="zh_Hant_HK">
+            <Text>大湖里實</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_15" Language="zh_Hant_HK">
+            <Text>川端真結</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_16" Language="zh_Hant_HK">
+            <Text>森文華</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_17" Language="zh_Hant_HK">
+            <Text>月島麻里奈</Text>
+        </Row>
+        <Row Tag="LOC_CITIZEN_PPP_gkls621_18" Language="zh_Hant_HK">
+            <Text>都築詩船</Text>
+        </Row>
+        <!--Leader
+        Names-->
+        <Row Tag="LOC_LEADER_KASUMI_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>戶山香澄</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_ARISA_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>市谷有咲</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_TAE_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>花園多惠</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_SAAYA_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>山吹沙綾</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_RIMI_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>牛込里美</Text>
+        </Row>
+        <!--Leader
+        Abilities-->
+        <Row Tag="LOC_TRAIT_LEADER_KASUMI_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>邦之高祖</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_LEADER_KASUMI_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>所有城市免費獲得Random Star。平民單位無視所有文明的邊界，但本國邊界亦永遠開放。解鎖「政治哲學」後獲得一個 [ICON_Government]通配符槽位。建成城市獲得1名 [ICON_Envoy] 使者，擁有Random Star的城市在文明建造外交區、解鎖「外交部門」後各能再提供1名[ICON_Envoy] 使者。宗主的每一個城邦為全國+5% [ICON_Production] 生產力，+5% [ICON_Culture] 文化，+5%[ICON_Tourism] 旅遊業績。可以進行一系列特色項目「唱小星星」。[NEWLINE]（開啟「全新相鄰加成核心」時）每與一個文明相遇，則市中心+1[ICON_GreatProphet] 大預言家點數；市中心、市政廣場與外交區從所創宗教信徒之數目獲得 [ICON_InfluencePerTurn] 影響力。</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_LEADER_ARISA_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>倉庫大王</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_LEADER_ARISA_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>解鎖「法典」後直接解鎖「灌溉」。種植園與改良了加成資源的農場+2 [ICON_Culture] 文化；若該單元格擁有淡水，則+2 [ICON_Production]生產力。所有巨作基礎+3 [ICON_Gold]金幣；巨作的產出+200%。擁有特色建築「流星堂」。[NEWLINE]獲得以下與間諜有關的加成：解鎖「寫作」後獲得兩個間諜，每建造一座學院或商業中心則間諜容量+1。間諜部署不消耗時間，獲得一次[ICON_Promotion] 初始升級，且自帶「技術專家」升級。竊取科技的任務必定解鎖相應科技。</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_LEADER_TAE_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>花園LAND</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_LEADER_TAE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>文明非 [ICON_Food] 食物產出的幸福度加成提升50%。牧場與營地為相鄰的保護區+3 [ICON_Culture]文化。每改良1種牧場/營地資源，所有城市+2 [ICON_Amenities]宜居度。建立首都時獲得一名自然學家。全國所有單元格的魅力+2；擁有國家公園的城市，其單元格魅力再+3。擁有國家公園的城市，每回合獲得2點聖地、學院與保護區所能提供的[ICON_GreatPerson] 偉人點數。創建國家公園時，該城市所有國家公園內每個戰略資源單元格提供15點儲量與一定 [ICON_Science]科技值；加成資源與奢侈品資源提供一定 [ICON_Culture] 文化值。擁有特色單位「兔子團」。[NEWLINE]（開啟「全新相鄰加成核心」時）保護區根據城市溢出的[ICON_Amenities] 宜居度提供戰略資源，聖地根據相鄰單元格魅力之和提供 [ICON_Science] 科技值；兩項相鄰加成隨本文明創立國家公園總數提升。</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_LEADER_SAAYA_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>麵包房的香氣</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_LEADER_SAAYA_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>城市擁有Random Star即可獲得糧倉。社區一級建築提供+2 [ICON_TradeRoute] 貿易路線容量。加成資源+2 [ICON_Faith]信仰，+2 [ICON_Production] 生產力,小麥再額外+2 [ICON_Culture] 文化。終點城市每處農場為 [ICON_TradeRoute]貿易路線+1 [ICON_Gold] 金幣。[ICON_TradeRoute] 貿易路線產生的 [ICON_Religion]宗教壓力+100%。擁有特色區域「商店街」。[NEWLINE]（開啟「輕工業區」時）特色區域由「商店街」改為「山吹麵包房」。[NEWLINE]（開啟「公司與壟斷」模式時）糧倉+3產品槽位。可進行項目「烤麵包」。</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_LEADER_RIMI_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>海螺包驚魂</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_LEADER_RIMI_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>進入古典時代獲得特殊 [ICON_GreatMusician]大音樂家「Glitter☆Green」。擁有特色總督「牛込百合」與不可生產的特色單位「里美的殭屍」。開始遊戲時獲得兩個 [ICON_Governor]總督頭銜。建立首都/建立異大陸城市時獲得兩個里美的殭屍；佔領城市時獲得兩個里美的殭屍，若為異教城市則額外獲得兩個；招募偉人時獲得一個里美的殭屍，若為[ICON_GreatProphet] 大預言家或 [ICON_GreatMusician]大音樂家，則額外獲得一個。建立首都或征服異教城市時獲得兩份特殊奢侈品「巧克力海螺包」。審判官可完全清除異教。</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_INHERITOR_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>傳承者</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_INHERITOR_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>Poppin' Party文明的特色單位，替代劍客，解鎖於「政治哲學」，基礎戰鬥力更強，移動力更高，不消耗戰略資源。擊殺單位或被擊殺時生成一個遺物。</Text>
+        </Row>
+        <Row Tag="LOC_BUILDING_RANDOM_STAR_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>Random Star</Text>
+        </Row>
+        <Row Tag="LOC_BUILDING_RANDOM_STAR_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>Poppin' Party文明的特色建築，替代紀念碑，基礎造價更低。額外+1 [ICON_GreatMusician] 大音樂家點數，並提供2個通用巨作槽位。</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_TWINKLE_FOUNDER_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>一閃一閃亮晶晶</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_TWINKLE_FOUNDER_gkls621_SHORT_NAME" Language="zh_Hant_HK">
+            <Text>一閃一閃亮晶晶</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_TWINKLE_FOUNDER_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>香澄的特色項目，需要“帝國初期”市政。獲得一些創始者信仰之加成。</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_TWINKLE_FOLLOWER_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>滿天都是小星星</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_TWINKLE_FOLLOWER_gkls621_SHORT_NAME" Language="zh_Hant_HK">
+            <Text>滿天都是小星星</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_TWINKLE_FOLLOWER_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>香澄的特色項目，須解鎖“王權神授”並完成“一閃一閃亮晶晶”。完成後，獲得所有信徒信仰之加成。</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_TWINKLE_ENHANCER_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>掛在天上放光明</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_TWINKLE_ENHANCER_gkls621_SHORT_NAME" Language="zh_Hant_HK">
+            <Text>掛在天上放光明</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_TWINKLE_ENHANCER_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>香澄的特色項目，須解鎖“王權神授”並完成“一閃一閃亮晶晶”。完成後，獲得所有強化信仰之加成。</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_TWINKLE_PANTHEON_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>好像許多小眼睛</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_TWINKLE_PANTHEON_gkls621_SHORT_NAME" Language="zh_Hant_HK">
+            <Text>好像許多小眼睛</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_TWINKLE_PANTHEON_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>香澄的特色項目。完成後，香澄獲得所有萬神殿的加成。</Text>
+        </Row>
+        <Row Tag="LOC_BUILDING_RYUSEIDO_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>流星堂</Text>
+        </Row>
+        <Row Tag="LOC_BUILDING_RYUSEIDO_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>有咲的特色建築，替代市場。每個時代額外+1 [ICON_Science] 科技值。收益輻射至6個單元格內的城市（每座城市僅作用一次）。提供3個巨作槽位。</Text>
+        </Row>
+        <Row Tag="LOC_BUILDING_RYUSEIDO_THEMINGBONUS_gkls621" Language="zh_Hant_HK">
+            <Text>展示相同類型的作品時，主題加成翻三番。</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_RABBIT_BRIGADE_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>兔子團</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_RABBIT_BRIGADE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>花園多惠的特色輕騎兵單位，解鎖於「畜牧業」，可修建3座國家公園。解鎖特定科技時獲得 [ICON_Strength] 基礎戰鬥力加成，解鎖"王權神授"後+2[ICON_Movement] 移動力，解鎖「人文主義」後+2視野，解鎖「自然歷史」後完成攻擊時自動回復 [ICON_Damaged]生命值，解鎖「保護地球」後可將敵方單位俘獲為兔子團。</Text>
+        </Row>
+        <Row Tag="LOC_DISTRICT_SHOPPING_STREET_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>商店街</Text>
+        </Row>
+        <Row Tag="LOC_DISTRICT_SHOPPING_STREET_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>沙綾的特色區域，替代社區，解鎖於「中世紀集市」，基礎造價更低。預設+3住房。與市中心相鄰時+2住房，+1食物，+1金幣；與商業中心或娛樂設施相鄰時+2金幣，與其他商店街相鄰時+2住房，+2食物，+1金幣。首次建成時提供3個貿易路線容量與3個商人。</Text>
+        </Row>
+        <Row Tag="LOC_DISTRICT_YAMABUKI_BAKERY_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>山吹麵包房</Text>
+        </Row>
+        <Row Tag="LOC_DISTRICT_YAMABUKI_BAKERY_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>沙綾的特色區域，替代輕工業區，基礎造價更低。同一城市可建造多個。+1 [ICON_TradeRoute] 貿易路線容量。為相鄰區域+1 [ICON_Gold]金幣，為學院、劇院廣場、聖地、工業區、航空港提供大量相鄰加成。城市生產項目時+8% [ICON_Production] 生產力。</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_CREATE_PRODUCT_BREAD_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>烤麵包</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_CREATE_PRODUCT_BREAD_gkls621_SHORT_NAME" Language="zh_Hant_HK">
+            <Text>烤麵包</Text>
+        </Row>
+        <Row Tag="LOC_PROJECT_CREATE_PRODUCT_BREAD_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>沙綾的特色項目，需要國境內有改良的小麥資源。完成後提供一個 [ICON_GreatWork_Product] 特殊產品。</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_RIMI_ZOMBIE_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>里美的殭屍</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_RIMI_ZOMBIE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>里美的特色單位，不可生產或購買，可將敵方單位俘獲爲殭屍。殭屍擊殺單位、被擊殺或里美的遠程單位擊殺單位時獲得 [ICON_Strength] 戰鬥力加成。</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_YURI_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>牛込百合</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_YURI_gkls621_TITLE" Language="zh_Hant_HK">
+            <Text>里美的姐姐</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_YURI_gkls621_SHORT_TITLE" Language="zh_Hant_HK">
+            <Text>里美的姐姐</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_YURI_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>里美的姐姐</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_PRODUCT_BREAD_gkls621_X_NAME" Language="zh_Hant_HK">
+            <Text>山吹牌麵包</Text>
+        </Row>
+        <Row Tag="LOC_RESOURCE_SAAYA_BREAD_gkls621__NAME" Language="zh_Hant_HK">
+            <Text>山吹麵包房</Text>
+        </Row>
+        <Row Tag="LOC_RESOURCE_SAAYA_BREAD_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>沙綾的麵包</Text>
+        </Row>
+        <Row Tag="LOC_RESOURCE_CHOCO_CORNET_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>巧克力海螺包</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_PROMOTION_ORIGIN_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>始祖樂隊</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_PROMOTION_ORIGIN_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>本文明解鎖任意遠古科技即可解鎖聖地。建造聖地時+100% [ICON_Production] 生產力。本城市免費獲得Random Star。</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_PROMOTION_OVERSEAS_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>海外留學</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_PROMOTION_OVERSEAS_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>派遣至城邦時提供2個 [ICON_Envoy] 使者。所在城市的學院+100% [ICON_Science] 科技值相鄰加成。本文明所有聖地的[ICON_Faith] 信仰值相鄰加成也提供 [ICON_Science] 科技值。</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_PROMOTION_COMPANIONSHIP_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>陪伴</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_PROMOTION_COMPANIONSHIP_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>為就職的城市提供2份巧克力海螺包。里美的殭屍+2 [ICON_Movement] 移動力。</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_PROMOTION_DILIGENCE_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>勤學苦讀</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_PROMOTION_DILIGENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>就職的城市可額外建造一個 [ICON_District] 區域。該城市每個區域+3 [ICON_Science] 科技值。本文明所有異大陸城市的[ICON_Science] 科技產出+25%。</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_PROMOTION_ROLLING_ON_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>滾動繼續</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_PROMOTION_ROLLING_ON_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>允許文明用 [ICON_Faith] 信仰值購買里美的殭屍，且生產時額外獲得一隻殭屍。</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_PROMOTION_REUNION_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>大團圓</Text>
+        </Row>
+        <Row Tag="LOC_GOVERNOR_PROMOTION_REUNION_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>里美的殭屍可將敵方戰鬥單位俘獲為搖滾樂隊。和平狀態下搖滾樂隊產生的 [ICON_Tourism] 旅遊業績+150%。</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_CLASS_GLITTER_GREEN_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>Glitter☆Green</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>Glitter☆Green</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_GG_1_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>Don't Be Afraid</Text>
+        </Row>
+        <Row Tag="LOC_GREATWORK_GG_2_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>Glee! Glee! Glee!</Text>
+        </Row>
+        <Row Tag="LOC_MODIFIER_RABBIT_BRIGADE_CONSERVATION_CAPTURE_gkls621_DESCRIPTION"
+            Language="zh_Hant_HK">
+            <Text>{1_Amount}% 俘虜敵人的機會。</Text>
+        </Row>
+        <Row Tag="LOC_RIMI_ZOMBIE_PROPERTY_STRENGTH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>先前擊殺經歷+{1_Property}% [ICON_Strength] 戰鬥力。</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_RIMI_ZOMBIE_MOVEMENT_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>陪伴</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_RIMI_ZOMBIE_MOVEMENT_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>+2 [ICON_Movement] 移動力。</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_RIMI_ZOMBIE_CAPTURE_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>大團圓</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_RIMI_ZOMBIE_CAPTURE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>可將敵方單位俘虜為搖滾樂隊</Text>
+        </Row>
+        <Row Tag="LOC_INHERITOR_RELIC_ON_KILLING_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>傳承之力</Text>
+        </Row>
+        <Row Tag="LOC_INHERITOR_RELIC_ON_KILLING_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>擊殺敵方單位時獲得1個 [ICON_GreatWork_Relic] 遺物。</Text>
+        </Row>
+        <Row Tag="LOC_INHERITOR_RELIC_ON_DEATH_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>傳承之力</Text>
+        </Row>
+        <Row Tag="LOC_INHERITOR_RELIC_ON_DEATH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>被擊殺時生成1個 [ICON_GreatWork_Relic] 遺物。</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_STIRRUPS_STRENGTH_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>解鎖「馬鐙鐙」</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_STIRRUPS_STRENGTH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>+37 [ICON_Strength] 基礎戰鬥力。</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_SCIENTIFIC_THEORY_STRENGTH_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>解鎖「科學理論」</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_SCIENTIFIC_THEORY_STRENGTH_gkls621_DESCRIPTION"
+            Language="zh_Hant_HK">
+            <Text>+14 [ICON_Strength] 基礎戰鬥力。</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_SANITATION_STRENGTH_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>解鎖「衛生設備」</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_SANITATION_STRENGTH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>+21 [ICON_Strength] 基礎戰鬥力。</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_REPLACEABLE_PARTS_STRENGTH_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>解鎖「零件規格化」</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_REPLACEABLE_PARTS_STRENGTH_gkls621_DESCRIPTION"
+            Language="zh_Hant_HK">
+            <Text>+10 [ICON_Strength] 基礎戰鬥力。</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_DIVINE_RIGHT_MOVEMENT_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>解鎖「王權神授」</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_DIVINE_RIGHT_MOVEMENT_gkls621_DESCRIPTION"
+            Language="zh_Hant_HK">
+            <Text>+2 [ICON_Movement] 移動力。</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_HUMANISM_SIGHT_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>解鎖「人文主義」</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_HUMANISM_SIGHT_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>+2視野。</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_NATURAL_HISTORY_AOE_HEAL_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>解鎖「自然歷史」</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_NATURAL_HISTORY_AOE_HEAL_gkls621_DESCRIPTION"
+            Language="zh_Hant_HK">
+            <Text>攻擊後回復 [ICON_Damaged] 生命值。</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_CONSERVATION_CAPTURE_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>解鎖「保護地球」</Text>
+        </Row>
+        <Row Tag="LOC_RABBIT_BRIGADE_CONSERVATION_CAPTURE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>可將敵方單位俘獲為兔子團</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_GG_AOE_DEFENSE_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>與Glitter☆Green相鄰</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_GG_AOE_DEFENSE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>防禦時+10 [ICON_Strength] 戰鬥力。</Text>
+        </Row>
+        <Row Tag="LOC_GG_DEFENSE_STRENGTH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>與Glitter☆Green相鄰，防禦時 [ICON_Strength] 戰鬥力+10</Text>
+        </Row>
+        <Row Tag="LOC_BREAD_TRADE_ROUTE_FOOD_TO_OTHERS_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>本城通往他國的 [ICON_TradeRoute] 貿易路線為該文明+3 [ICON_Food] 食物。[NEWLINE]本城出發的國際 [ICON_TradeRoute] 貿易路線+5 [ICON_Gold] 金幣。[NEWLINE]城市+2 [ICON_Amenities] 宜居度。</Text>
+        </Row>
+        <!--<Row Tag="LOC_BREAD_TRADE_ROUTE_GOLD_INTERNATIONAL_gkls621_DESCRIPTION"
+            Language="zh_Hant_HK">
+            <Text>本城出發的國際 [ICON_TradeRoute] 貿易路線+5 [ICON_Gold] 金幣。</Text>
+        </Row>
+        <Row Tag="LOC_BREAD_INTERNATIONAL_TRADE_ROUTE_ALL_YIELDS_gkls621_DESCRIPTION"
+            Language="zh_Hant_HK">
+            <Text>本文明國際 [ICON_TradeRoute] 貿易路線所有收益+8%。</Text>
+        </Row>
+        <Row Tag="LOC_BREAD_AMENITY_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>城市+2 [ICON_Amenities] 宜居度。</Text>
+        </Row>-->
+        <Row Tag="LOC_FARM_YAMABUKI_BAKERY_PRODUCTION_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Production] 生產力來自相鄰山吹麵包房。</Text>
+		</Row>
+		<Row Tag="LOC_CAMPUS_YAMABUKI_BAKERY_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Science] 科技來自相鄰山吹麵包房。</Text>
+		</Row>
+		<Row Tag="LOC_HOLY_SITE_YAMABUKI_BAKERY_FAITH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Faith] 信仰來自相鄰山吹麵包房。</Text>
+		</Row>
+		<Row Tag="LOC_THEATER_YAMABUKI_BAKERY_CULTURE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Culture] 文化來自相鄰山吹麵包房。</Text>
+		</Row>
+		<Row Tag="LOC_INDUSTRY_YAMABUKI_BAKERY_PRODUCTION_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Production] 生產力來自相鄰山吹麵包房。</Text>
+		</Row>
+		<Row Tag="LOC_YAMABUKI_BAKERY_GOLD_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Gold] 金幣來自相鄰山吹麵包房。</Text>
+		</Row>
+        <Row Tag="LOC_SHOPPING_STREET_CITY_CENTER_FOOD_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Food] 食物來自相鄰市中心。</Text>
+		</Row>
+		<Row Tag="LOC_SHOPPING_STREET_CITY_CENTER_GOLD_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Gold] 金幣來自相鄰市中心。</Text>
+		</Row>
+		<Row Tag="LOC_SHOPPING_STREET_COMMERCIAL_HUB_GOLD_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Gold] 金幣來自相鄰商業中心。</Text>
+		</Row>
+		<Row Tag="LOC_SHOPPING_STREET_ENTERTAINMENT_GOLD_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Gold] 金幣來自相鄰娛樂中心。</Text>
+		</Row>
+		<Row Tag="LOC_SHOPPING_STREET_SHOPPING_STREET_GOLD_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Gold] 生产力來自相鄰商店街。</Text>
+		</Row>
+		<Row Tag="LOC_SHOPPING_STREET_SHOPPING_STREET_FOOD_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Food] 金幣來自相鄰商店街。</Text>
+		</Row>
+        <Row Tag="LOC_KASUMI_PROPHET_POINT_FROM_MET_CIVS" Language="zh_Hant_HK">
+			<Text>+{1_iBonus} {2_YieldIcon} 來自遇見的{3_AdjacentSubjectNum}個文明。</Text>
+		</Row>
+		<Row Tag="LOC_TAE_YIELD_FROM_TOTAL_PARKS_gkls621" Language="zh_Hant_HK">
+			<Text>+{1_iBonus} {2_YieldIcon} 來自所建造的{3_AdjacentSubjectNum}座國家公園。</Text>
+		</Row>
+
+        <Row Tag="LOC_LEADER_KASUMI_gkls621_QUOTE" Language="zh_Hant_HK">
+            <Text>キラキラ、ドキドキ！</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_ARISA_gkls621_QUOTE" Language="zh_Hant_HK">
+            <Text>是嗎……為什麼要對我說這個？</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_TAE_gkls621_QUOTE" Language="zh_Hant_HK">
+            <Text>把兔子吃掉好可憐啊，我做不到。</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_SAAYA_gkls621_QUOTE" Language="zh_Hant_HK">
+            <Text>用擀麵杖代替鼓棒？開玩笑的！</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_RIMI_gkls621_QUOTE" Language="zh_Hant_HK">
+            <Text>沒關係，巧克力海螺包裝在另一個胃裡♪(´▽｀)</Text>
+        </Row>
+
+        <!--Loading
+        Info-->
+        <Row Tag="LOC_LOADING_INFO_LEADER_KASUMI_gkls621" Language="zh_Hant_HK">
+            <Text>
+                戶山香澄，有口皆碑的「高祖」，大少女樂隊時代的靈魂人物！追隨內心中的星光，您大膽前行，將夥伴都團結，於是共建樂團的提議不再難以啟齒，於是深藏內心的音樂夢想終而重燃。現實故事不會滿足於琴瑟和鳴的美滿，還有日常中的突變、世界觀的新顏，待您踏遍。天涯何處無芳草，一遠芳，侵古道。</Text>
+        </Row>
+        <Row Tag="LOC_LOADING_INFO_LEADER_ARISA_gkls621" Language="zh_Hant_HK">
+            <Text>
+                市谷有咲，告別利根川，重歸夢想，迎來躍動之星。論園藝、學習與倉儲管理，您的水平毋庸置疑；不知施展以上特長時，您可曾追憶由星星貼紙嘉獎的彈琴歲月？所幸，嶄新的友誼追回了失卻的感覺。如今誰都明白，您毒舌傲嬌的背後是細膩溫情，好比錦上添花的夾心巧克力。</Text>
+        </Row>
+        <Row Tag="LOC_LOADING_INFO_LEADER_TAE_gkls621" Language="zh_Hant_HK">
+            <Text>
+                花園多惠，世上最單純的吉他英雄，跨越孤獨與熱鬧的道口，用妙手偶得的奇想裝點明天。兔子們的一舉一動無不揭示奧秘，您與它們相依為命，盡全力搭建水草豐美的花園LAND，相互奔赴間悟出這玄妙的修辭哲學。守護與兔子的淨土，捍衛與夥伴的友誼，放飛與自然的共鳴。</Text>
+        </Row>
+        <Row Tag="LOC_LOADING_INFO_LEADER_SAAYA_gkls621" Language="zh_Hant_HK">
+            <Text>
+                美拉德的甜香在大街上躍進，烘焙間的燈光在排隊前亮起。山吹沙綾，樂隊少女們啃著麵包多欣喜，你的樂隊夢想也殺出家庭重擔，重返架子鼓後。這個世界充滿了商機，也遍佈著舞台；個中平衡兩顧之道艱深，但早早當家的你，已有了心得可觀。麵擀天下，鼓槌槌全球。</Text>
+        </Row>
+        <Row Tag="LOC_LOADING_INFO_LEADER_RIMI_gkls621" Language="zh_Hant_HK">
+            <Text>
+                牛込里美，您與巧克力海螺包互為代名詞；然人本立體，恐怖片、關西風情與某個忍者之夢同樣不可或缺。所謂成長，就是步步脫離習慣性的依賴，獨當一面而毋須患失。面對寫滿分離的過去與未來，您過去如何攜眾友之手克服難關，眼下也務必以團結立場決定自己的未來！</Text>
+        </Row>
+
+        <!--Civilopedia
+        Part-->
+        <Row Tag="LOC_CIVINFO_PPP_gkls621_LOCATION" Language="zh_Hant_HK">
+            <Text>主要於Livehouse Circle表演，但Space、RinG等處亦見證樂隊成長足跡。</Text>
+        </Row>
+        <Row Tag="LOC_CIVINFO_PPP_gkls621_SIZE" Language="zh_Hant_HK">
+            <Text>大家我（們）都喜歡哦！</Text>
+        </Row>
+        <Row Tag="LOC_CIVINFO_PPP_gkls621_POPULATION" Language="zh_Hant_HK">
+            <Text>5人（不包括朝日六花等忠澄第六人）</Text>
+        </Row>
+        <Row Tag="LOC_CIVINFO_PPP_gkls621_CAPITAL" Language="zh_Hant_HK">
+            <Text>流星堂，香澄抱得Random Star（以及，更重要的，有咲）而歸之地</Text>
+        </Row>
+        <!--Leader
+        quote in Civilopedia-->
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KASUMI_gkls621_QUOTE" Language="zh_Hant_HK">
+            <Text>キラキラ、ドキドキ！</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARISA_gkls621_QUOTE" Language="zh_Hant_HK">
+            <Text>是嗎……為什麼要對我說這個？</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAE_gkls621_QUOTE" Language="zh_Hant_HK">
+            <Text>把兔子吃掉好可憐啊，我做不到。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAAYA_gkls621_QUOTE" Language="zh_Hant_HK">
+            <Text>用擀麵杖代替鼓棒？開玩笑的！</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RIMI_gkls621_QUOTE" Language="zh_Hant_HK">
+            <Text>沒關係，巧克力海螺包裝在另一個胃裡♪(´▽｀)</Text>
+        </Row>
+
+        <Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PPP_gkls621_CHAPTER_HISTORY_PARA_1"
+            Language="zh_Hant_HK">
+            <Text>作為樂隊的吉他和主唱，戶山香澄一直在尋找著，如同小時候仰望星空時聽到的「星之律動」一樣的，閃閃發光而令人心動的事物。由此才促成了這支樂隊的組建。總是把有咲家的倉庫地下室當作練習場地的她們，技術有待提高，經驗也不充分。樂隊的成員除了香澄，還有鍾愛音樂的天然少女花園多惠，希望能改變自己消極性格的牛込里美，溫柔而關心家人的山吹沙綾，以及愛唱反調而心口不一的市谷有咲。在這個少女樂隊時代中閃閃發光的女子高中生5人樂隊組合，將自己的心情寄託於音樂當中，為了將更多讓人心動不已的事情傳遞出去而每日歌唱。</Text>
+        </Row>
+        <!--Leader
+        introduction-->
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KASUMI_gkls621_CHAPTER_HISTORY_PARA_1"
+            Language="zh_Hant_HK">
+            <Text>戶山香澄，Poppin' Party的隊長、主唱、節奏吉他兼作詞人，同時乃是BanG Dream!系列的第一主角。年幼參加露營時與妹妹明日香聽到了星之鼓動，於是一直尋找閃閃發光、心動不已的事物（怎麼樣，這香澄語），進而創建了Poppin' Party。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KASUMI_gkls621_CHAPTER_HISTORY_PARA_2"
+            Language="zh_Hant_HK">
+            <Text>喜歡冒險和唱卡拉OK。喜歡的食物是炸薯條、白米飯，討厭納豆。有一套獨特的「香澄語」詞彙。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KASUMI_gkls621_CHAPTER_HISTORY_PARA_3"
+            Language="zh_Hant_HK">
+            <Text>衝動莽撞，外向積極到能與所有女孩子交好，但怕鬼；髮型梳成兩角星星的形狀，但怕飛行。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KASUMI_gkls621_CHAPTER_HISTORY_PARA_4"
+            Language="zh_Hant_HK">
+            <Text>從跟蹤有咲的貼紙潛入流星堂始，到集結隊友，精進吉他，頂班Glitter☆Green強唱《小星星》，最終走向武道館，收穫了友（姬♀）情和一整個由她開創的大少女樂隊時代。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KASUMI_gkls621_CHAPTER_HISTORY_PARA_5"
+            Language="zh_Hant_HK">
+            <Text>（整理自Fandom、萌娘百科）</Text>
+        </Row>
+
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARISA_gkls621_CHAPTER_HISTORY_PARA_1"
+            Language="zh_Hant_HK">
+            <Text>市谷有咲，Poppin'Party樂隊的鍵盤手，當代傲嬌派扛鼎之人，眾望所歸的香澄正室。現亦充任花咲川女子學園學生會副會長。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARISA_gkls621_CHAPTER_HISTORY_PARA_2"
+            Language="zh_Hant_HK">
+            <Text>典當行「流星堂」的家族孫女。以盆景和上網為興趣的室內派，基本一直不出門，但擅長種盆栽，又習教有方，所以學業成績優秀。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARISA_gkls621_CHAPTER_HISTORY_PARA_3"
+            Language="zh_Hant_HK">
+            <Text>幼時曾習鋼琴，表現突出，斬獲最多的星星貼紙，但因升學放棄樂器，直到遇見香澄，方得以繼續展現樂感。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARISA_gkls621_CHAPTER_HISTORY_PARA_4"
+            Language="zh_Hant_HK">
+            <Text>非常毒舌，是樂隊的吐槽役擔當，尤其對香澄總很強硬；但其實只是坦率不起來而已。為了購置合成器，不惜出售心愛的盆栽。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARISA_gkls621_CHAPTER_HISTORY_PARA_5"
+            Language="zh_Hant_HK">
+            <Text>（整理自萌娘百科）[NEWLINE][NEWLINE][NEWLINE][NEWLINE][NEWLINE][NEWLINE][NEWLINE][NEWLINE]是嗎……為什麼要對我說這個？[NEWLINE]沒什麼，只是表明參考信息來源。</Text>
+        </Row>
+
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAE_gkls621_CHAPTER_HISTORY_PARA_1"
+            Language="zh_Hant_HK">
+            <Text>Poppin' Party的主音吉他，熱愛音樂的實力派，小學便開始學習吉他，入高中後進LiveHouse打工。暱稱「Otae」（不要再打成O「tea」啦）。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAE_gkls621_CHAPTER_HISTORY_PARA_2"
+            Language="zh_Hant_HK">
+            <Text>嗜兔子如命（兔兔這麼可愛，怎麼能吃兔兔！）。家養二十隻兔子，將它們視作家人，一一取名，熟識特徵。曾表示夢想去到住滿兔子的小島上。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAE_gkls621_CHAPTER_HISTORY_PARA_3"
+            Language="zh_Hant_HK">
+            <Text>看起來頗正經，實際上思維總與正常人不同頻，可謂「天然」「電波系」。譬如總能將現實場景與兔子聯想到一起，甚至尋訪到奇異的高魔生物。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAE_gkls621_CHAPTER_HISTORY_PARA_4"
+            Language="zh_Hant_HK">
+            <Text>論吃，則喜歡漢堡肉，凡問及鐘意食物時必推之，實際又不挑食，無不喜。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAE_gkls621_CHAPTER_HISTORY_PARA_5"
+            Language="zh_Hant_HK">
+            <Text>曾被Chu²挖角至RAISE A SUILEN，但不願放棄Poppin' Party的工作，最終回歸。[NEWLINE]（摘自萌娘百科）</Text>
+        </Row>
+
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAAYA_gkls621_CHAPTER_HISTORY_PARA_1"
+            Language="zh_Hant_HK">
+            <Text>Poppin' Party的鼓手，山吹麵包房的看板娘。工讀一體，邊讀高中邊在麵包房幫忙，於整條商店街有口皆碑。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAAYA_gkls621_CHAPTER_HISTORY_PARA_2"
+            Language="zh_Hant_HK">
+            <Text>初中時曾與海野夏希、川端真結、森文華三人組成樂團CHiSPA，但初回Live因母親入院中斷；後擔心母親身體以及不想給其他成員添麻煩，只好忍痛退出樂隊。在香澄鼓舞下，重拾樂團生活，並與CHiSPA舊友解開心結。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAAYA_gkls621_CHAPTER_HISTORY_PARA_3"
+            Language="zh_Hant_HK">
+            <Text>性格溫柔，為朋友著想，是香澄的諮詢對象。家有弟妹，因而也要負責照料。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAAYA_gkls621_CHAPTER_HISTORY_PARA_4"
+            Language="zh_Hant_HK">
+            <Text>山吹麵包房可能是BanG Dream!世界觀下的第一食肆。其巧克力海螺包，里美百吃不厭；青葉摩卡更是大宗顧客，食出鐵胃；香澄也樂於嗅聞沙綾身上的麵包香，判斷有無新品上架。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAAYA_gkls621_CHAPTER_HISTORY_PARA_5"
+            Language="zh_Hant_HK">
+            <Text>（整理自萌娘百科）</Text>
+        </Row>
+
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RIMI_gkls621_CHAPTER_HISTORY_PARA_1"
+            Language="zh_Hant_HK">
+            <Text>牛込里美，Poppin' Party的貝斯手。關西出身，時而露出方言。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RIMI_gkls621_CHAPTER_HISTORY_PARA_2"
+            Language="zh_Hant_HK">
+            <Text>酷愛巧克力海螺包，尤其是山吹麵包房產的，宣稱「有另一個胃裝巧克力螺」。巧克力螺已然成為里美生活一大串聯線，成為個人代名詞。此外，她也喜歡肉和鮮奶油。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RIMI_gkls621_CHAPTER_HISTORY_PARA_3"
+            Language="zh_Hant_HK">
+            <Text>性格膽小怯懦，比較認生。如此一來，她對恐怖片的痴迷反倒頗具戲劇性。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RIMI_gkls621_CHAPTER_HISTORY_PARA_4"
+            Language="zh_Hant_HK">
+            <Text>師承姐姐牛込百合，使用她傳下的貝斯。為頂替飛機晚點無法及時赴演的百合姐，里美上台配合香澄等演奏了貝斯，成功等到Glitter☆Green，一道完成高配版《小星星》的演奏，於是打破懦弱，加入樂隊。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RIMI_gkls621_CHAPTER_HISTORY_PARA_5"
+            Language="zh_Hant_HK">
+            <Text>（整理自萌娘百科）</Text>
+        </Row>
+
+        <Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_RANDOM_STAR_gkls621_CHAPTER_HISTORY_PARA_1"
+            Language="zh_Hant_HK">
+            <Text>Random Star，香澄所用的吉他，形狀酷似飛星。本來躺在有咲的倉庫之中，將被拍賣走，後在香澄充滿誠意的軟磨硬泡下得以保留，成為主力琴。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_RYUSEIDO_gkls621_CHAPTER_HISTORY_PARA_1"
+            Language="zh_Hant_HK">
+            <Text>流星堂，有咲家經營的典當鋪，Poppin' Party也常在這裡排練。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INHERITOR_gkls621_CHAPTER_HISTORY_PARA_1"
+            Language="zh_Hant_HK">
+            <Text>在BanG Dream!的初設中，Random Star是有咲父親的遺物。他所在的樂隊於單曲出道前夕，因鼓手意外身亡解散；他後來放棄音樂，入贅當鋪。每年父親的祭日，有咲會把Random Star拿到到當鋪的櫥窗裡展示，並在附近一路做星星和箭頭的標記，希望指引特別的人來。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RABBIT_BRIGADE_gkls621_CHAPTER_HISTORY_PARA_1"
+            Language="zh_Hant_HK">
+            <Text>花園多惠家有二十兔，她曾表示可以將兔子們帶上舞台，增添表演氣氛。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIMI_ZOMBIE_gkls621_CHAPTER_HISTORY_PARA_1"
+            Language="zh_Hant_HK">
+            <Text>里美愛恐怖片。恐怖片有許多細分賽道，喪屍是其中一重要題材。而在東方，喪屍結合本土筆記傳說，有了許多變化。當年「殭屍道長」林正英的作品便曾膾炙華語世界，日本《午夜凶鈴》中從電視爬出的怨鬼貞子更成為超級文化符號。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_SHOPPING_STREET_gkls621_CHAPTER_HISTORY_PARA_1"
+            Language="zh_Hant_HK">
+            <Text>商店街是樂隊少女們聚集的場所之一，Poppin'Party和Afterglow時常會在商店街的活動上進行表演。其原型為東京的江戶川橋地藏通商店街。[NEWLINE]街上有山吹麵包店（沙綾）、羽澤咖啡店（鶇鶇、伊芙、築紫、立希）、北澤精肉店（育美）、公共澡堂「旭湯」（六花）、LiveHouse Galaxy（六花、益木）、銀河蔬果店（益木）等有名目的商鋪，還有人氣王吉祥物米歇爾（美咲）。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_YAMABUKI_BAKERY_gkls621_CHAPTER_HISTORY_PARA_1"
+            Language="zh_Hant_HK">
+            <Text>山吹麵包房乃由山吹家所經營，是商店街上的名店。其產品深受大家歡迎，詳情可見「領袖」中山吹沙綾之章節。</Text>
+        </Row>
+
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+      		<Text>Glitter*Green是《BanG Dream!》及其衍生作品的登場樂隊，但角色的聲優並不會演奏。她們算得上是整個世界觀的引子，甄士隱邦邦分隱。</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+      		<Text>通稱グリグリ(guriguri)，也寫作Glitter☆Green。在動畫一期中首次登場，是爲香澄同校的前輩們所開設的組合，在同齡人間有很大的人氣。</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+      		<Text>樂隊由牛込百合(Gt. Vo.)、鵜澤璃(Ba.)、鱷部七菜(Key.)、二十騎雛子(Dr.)組成。</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+      		<Text>角色全員的聲優爲「偵探歌劇 少女福爾摩斯」中聲優組合Milky Holmes的成員。</Text>
+    	</Row>
+        <!--Agenda
+        Names-->
+        <Row Tag="LOC_AGENDA_KASUMI_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>心動不已</Text>
+        </Row>
+        <Row Tag="LOC_AGENDA_KASUMI_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>默認喜歡所有文明，但厭惡侵犯自己的盟友的文明。</Text>
+        </Row>
+        <Row Tag="LOC_AGENDA_ARISA_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>才…沒喜歡你</Text>
+        </Row>
+        <Row Tag="LOC_AGENDA_ARISA_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>喜歡高科技值的文明，厭惡過度開發國土的文明。</Text>
+        </Row>
+        <Row Tag="LOC_AGENDA_TAE_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>天然美人</Text>
+        </Row>
+        <Row Tag="LOC_AGENDA_TAE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>喜歡城市人口眾多的文明，厭惡掠奪他國的文明。</Text>
+        </Row>
+        <Row Tag="LOC_AGENDA_SAAYA_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>當家的覺悟</Text>
+        </Row>
+        <Row Tag="LOC_AGENDA_SAAYA_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>喜歡回合收入高的文明，厭惡擁有高收入卻突襲他國的文明。</Text>
+        </Row>
+        <Row Tag="LOC_AGENDA_RIMI_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>巧克力螺之心</Text>
+        </Row>
+        <Row Tag="LOC_AGENDA_RIMI_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>喜歡不向本國傳教的文明，厭惡向本國傳教的文明。</Text>
+        </Row>
+
+        <!--Diplomatic
+        Text-->
+        <!--Kasumi-->
+        <Row Tag="LOC_DIPLO_KUDO_LEADER_KASUMI_gkls621_AGENDA_LIKE_EVERYONE" Language="zh_Hant_HK">
+            <Text>您真是咯喱喱啾啦，超級噠哇╰(☆o☆)╯</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_LEADER_KASUMI_gkls621_AGENDA_DENOUNCED_FRIEND"
+            Language="zh_Hant_HK">
+            <Text>我們的朋友不容你傷害！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_KASUMI_gkls621_AGENDA_LIKE_EVERYONE"
+            Language="zh_Hant_HK">
+            <Text>她喜歡所有文明。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_KASUMI_gkls621_AGENDA_DENOUNCED_FRIEND"
+            Language="zh_Hant_HK">
+            <Text>她討厭侵害其盟友的文明。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>大家一起キラキラ、ドキドキ！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>抱歉……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_KASUMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>我們一起去尋找世界上的星星吧！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_KASUMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>大家一起キラキラ、ドキドキ！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_KASUMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>抱歉……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>向破壞少女樂隊世界觀的人，重拳，出擊！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KASUMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>向破壞少女樂隊世界觀的人，重拳，出擊！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_KASUMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>夢想，連口號也再也沒法喊響了……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>夢想，連口號也再也沒法喊響了……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>哇嗚，真是砰砰閃爍着星星靈魂的禮品呢！謝謝啦~</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>欸嘿嘿，這個，恐怕不是很需要。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_KASUMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>鏘鏘，這是我國使團送上的晶晶亮鋥鋥鋥鋥亮吭哧吭哧打磨而成的一比一Random Star哦，還有Popipa全員簽名~</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_KASUMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>啊嘞嘞？唉等等等等……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_KASUMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>啊嘞嘞？唉等等等等……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_KASUMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>呀吼~我是戶山香澄——哦，哦，哦，哦你的眼睛裡就有星星的律動耶！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_KASUMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>哎呀，既然你都來了，就來我們排練的地方看看嘛，我有一萬種辦法讓有咲……嘿嘿</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KASUMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>大成功，Lu☆cky</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_KASUMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>剛好，我們互相做個自我介紹吧！小時候我抬頭仰望星空，聽到了星星的律動……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_GREETING_LEADER_KASUMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>嗚哦，真巧耶！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KASUMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>耶咿，星星的感覺！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KASUMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>什，什麼玩意？</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_KASUMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>呀，大家都來給我抱嗎？我來……欸啊啊——</Text>
+        </Row>
+        <!--Arisa-->
+        <Row Tag="LOC_DIPLO_KUDO_LEADER_ARISA_gkls621_AGENDA_HIGH_SCIENCE" Language="zh_Hant_HK">
+            <Text>唔，勉強誇你句「不賴」吧。下次，下次不會這麼便宜你了！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_LEADER_ARISA_gkls621_AGENDA_EXPLOITATION" Language="zh_Hant_HK">
+            <Text>嗚哇，花花草草不是給你這麼糟蹋的啊！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ARISA_gkls621_AGENDA_HIGH_SCIENCE"
+            Language="zh_Hant_HK">
+            <Text>她喜歡科技產出高的文明。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ARISA_gkls621_AGENDA_EXPLOITATION"
+            Language="zh_Hant_HK">
+            <Text>她為你的開發破壞不爽。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ARISA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>什麼，我才，才沒有沒承認你呢……好吧，還是得承認了（臉紅）</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ARISA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>才，才不喜歡呢！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ARISA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>看來，世界上又得多個等我絞盡腦汁為ta製造驚喜的人了……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ARISA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>欸，你，你別這麼激動啊！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ARISA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>不行！再強調一遍——不！行！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ARISA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>可惡，到了現在這地步，我是絕對絕對地忍不下去了！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ARISA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>可惡，到了現在這地步，我是絕對絕對地忍不下去了！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ARISA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>我可沒有說過「投降」，我，我只是被你暫時——吵死了啦！哎，我不是這個意思……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_ARISA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>我可沒有說過「投降」，我，我只是被你暫時——吵死了啦！哎，我不是這個意思……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ARISA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>唔，總之，謝，謝謝！（臉紅）</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ARISA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>沒——門——！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ARISA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>這是我們新種的一盆冷杉，反正佔地方，你拿去吧[NEWLINE]——敢養死的話，我絕對不客氣！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ARISA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>豈有此理！！！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ARISA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>豈有此理！！！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ARISA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>我叫市谷有咲。雖……雖然是某人強行要求我加入的環節……總之我在Poppin' Party當鍵盤手謝謝！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ARISA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>我平常就呆在流星堂……什麼嘛，那裡哪是閒人可入的！什麼，你說你不是閒人……嗯……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ARISA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>我哪有說我想跟來看……啊啊，好吧，還是怪不好意思的……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ARISA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>好吧，可以悄悄告訴你；答應我，今天的話不要洩露出去啊！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_GREETING_LEADER_ARISA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>唔欸？咳，今天也是好天氣。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ARISA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>真是的啦，是不是故意在等我誇你啦……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ARISA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>哼，真，真的不喜歡你呢！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ARISA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>啊，你這波是要作哪樣？快點離我遠點啦，你們吵死了！</Text>
+        </Row>
+        <!--Tae-->
+        <Row Tag="LOC_DIPLO_KUDO_LEADER_TAE_gkls621_AGENDA_HIGH_POPULATION" Language="zh_Hant_HK">
+            <Text>你們的土地就和我們家的二十隻兔子同時刨土的時候一樣熱鬧呢，真可愛~</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_LEADER_TAE_gkls621_AGENDA_HIGH_PILLAGE" Language="zh_Hant_HK">
+            <Text>再這樣破壞下去，一個國家通過農業得到美味漢堡肉和兔子飼料的權利，就會毀在你的手上……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_TAE_gkls621_HIGH_FOOD_POPULATION"
+            Language="zh_Hant_HK">
+            <Text>她喜歡人口眾多的文明。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_TAE_gkls621_LOW_FOOD_POPULATION"
+            Language="zh_Hant_HK">
+            <Text>她討厭掠奪他人領土的文明。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TAE_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>感覺明天，十隻小歐也跑不過我了呢！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TAE_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>嗯嗯嗯，不行喲。你看你看，連小紫也搖頭了！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TAE_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>從現在起，不是從明天起，我一找到全是兔子生活的島嶼就會邀請你一起去！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TAE_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>感覺明天，十隻小歐也跑不過我了呢！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TAE_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>嗯嗯嗯，不行喲。你看你看，連小紫也搖頭了！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TAE_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>咦，你部隊的頭髮一個比一個亂，還不如纏在一起的連接線呢；不過，這回我可不會提供任何一把梳子了！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TAE_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>今天，我仔仔細細擦淨了吉他，換了遍弦，檢索腦海裡的曲庫——就是要，堂堂正正地，討伐你！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TAE_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>真的要……去到某個遙遠的地方嗎，甚至沒機會活成一個玩不到樂隊的老奶奶？再見了小歐，我的所為或許的確把你「束在了踏車上」……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TAE_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>真的要……去到某個遙遠的地方嗎，甚至沒機會活成一個玩不到樂隊的老奶奶？再見了小歐，我的所為或許的確把你「束在了踏車上」……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TAE_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>您的代表團就像我家兔子啃胡蘿蔔一樣振奮人心！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TAE_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>小歐和我想得一樣呢，今天不適合接客。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TAE_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>我們的代表團裡有我心愛的小白。它會表演跳肉圈哦，就是像跳火圈一樣穿越啃得只剩邊上一圈的漢堡肉餅。怎麼啃？小白確實不能吃葷哦~</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TAE_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>沒有吉他也回授嗎？你呀……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TAE_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>沒有吉他也回授嗎？你呀……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TAE_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>我叫花園多惠~兔子磨牙棒最近普遍漲價了呢……哦，我沒有打廣告的意思！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TAE_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>來看看我們的城市唄？它的邊界就像無數隻跑動的兔子……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TAE_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>不知您的國度裡，是否也肯定漢堡肉上打個蛋的含金量呢？</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TAE_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>這是我的撥片，您儘管收下。吉他撥片就像兔子的門牙，取之不盡用之不竭啊。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_GREETING_LEADER_TAE_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>早安~下面是我代兔子們的問候：早安，早安，……（重複二十遍）</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TAE_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>告訴您一個我的獨門訣竅：對著菜葉子彈《Initial》有助於兔兔們吸收維生素。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TAE_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>我得不到滿足，我想把一切漆成黑的。給我庇護所，我在中央公園迴盪好久……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TAE_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>兔子急了也會咬人，更別提負責守護它們的我……攤牌罷！</Text>
+        </Row>
+        <!--Saaya-->
+        <Row Tag="LOC_DIPLO_KUDO_LEADER_SAAYA_gkls621_AGENDA_HIGH_INCOME" Language="zh_Hant_HK">
+            <Text>盈利也是門學問呢。您的踏實，我學到了很多。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_LEADER_SAAYA_gkls621_AGENDA_HIGH_INCOME_BUT_INVADES"
+            Language="zh_Hant_HK">
+            <Text>為富不仁，不僅有違家人們對您經營頭腦的欽佩，更會廣佈災難。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAAYA_gkls621_HIGH_INCOME" Language="zh_Hant_HK">
+            <Text>她中意回合金收入高的文明。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAAYA_gkls621_HIGH_INCOME_BUT_INVADES"
+            Language="zh_Hant_HK">
+            <Text>她痛恨為富不仁，突襲他人的文明。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>有您相助，以後麵包房的生意和樂隊事務的檔期都不成問題啦！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>對不起，雖然我也嚮往，但考慮到家人和樂隊的因素，不好意思。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SAAYA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>也許年輕人的愛不是發自內心，而是全靠眼睛。沒關係，我們兩個是心心相印。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SAAYA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>有您相助，以後麵包房的生意和樂隊事務的檔期都不成問題啦！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SAAYA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>對不起，雖然我也嚮往，但考慮到家人和樂隊的因素，不好意思。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>坐在鼓後面噴火可能不現實，但用怒火對陣你的冒進，是值得的……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SAAYA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>坐在鼓後面噴火可能不現實，但用怒火對陣你的冒進，是值得的……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SAAYA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>啊哈哈，欲說還休。紗南和純還小，香澄她們更不知情，你不准株連他們……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>啊哈哈，欲說還休。紗南和純還小，香澄她們更不知情，你不准株連他們……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>您的禮物真的好用心啊！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>今天排練，晚上還得準備明天的麵包，不好意思。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SAAYA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>很榮幸能同您介紹山吹麵包房的經典產品，像巧克力海螺包和蜜瓜包；這裡還有一些新品，比如Poppin'麵包，是像套餐一樣的麵包呢。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SAAYA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>啊哈哈……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SAAYA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>啊哈哈……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SAAYA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>山吹沙綾向您問好！您吃了嗎？</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SAAYA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>您也餓了吧？我們的城市離這裡不遠的，來坐坐，吃兩個現烤的麵包吧。品種隨挑哦~</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SAAYA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>其實，我是準備來您的集鎮裡求購那種高檔高筋粉的。哎呀，現在越來越難買到嘍……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SAAYA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>時間緊張，我們相遇的故事肯定短；也是時候互贈一些了解，助它綿長。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_GREETING_LEADER_SAAYA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>（遠遠地）您好————來個麵包嗎————？</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SAAYA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>您面對生活的勇氣是我長期以來所不具備的。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SAAYA_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>哦對了，香澄緊急call我回去排練。失陪失陪。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SAAYA_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>對不起，麵包房已經打烊了。「我是來吃麵包的」可不夠藉口哦！</Text>
+        </Row>
+        <!--RIMI-->
+        <Row Tag="LOC_DIPLO_KUDO_LEADER_RIMI_gkls621_AGENDA_RELIGION_NOT_RECEIVED"
+            Language="zh_Hant_HK">
+            <Text>下次，也歡迎您試試巧克力海螺包呢。最好，買沙綾她們家的！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_LEADER_RIMI_gkls621_AGENDA_RELIGION_RECEIVED"
+            Language="zh_Hant_HK">
+            <Text>講……講真，巧克力螺，我永遠吃不厭的啦！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_RIMI_gkls621_AGENDA_RELIGION_NOT_RECEIVED"
+            Language="zh_Hant_HK">
+            <Text>您尊重了里美的信仰。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_RIMI_gkls621_AGENDA_RELIGION_RECEIVED"
+            Language="zh_Hant_HK">
+            <Text>里美因您凌駕指點她的信仰而不滿。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RIMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>這世代，朋友老難找了。除開Popipa的大家，您算是頭一號。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RIMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>對不起，我還是得學會拒絕。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_RIMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>真難想像，能碰上您這樣和我完全志趣相投的人呢！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_RIMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>這世代，朋友老難找了。除開Popipa的大家，您算是頭一號。~</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_RIMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>對不起，我還是得學會拒絕。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_RIMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>恐怖片裡獵奇的邪惡，我見多了；而你這種平庸不知恥的惡，還是頭一遭……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_RIMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>恐怖片裡獵奇的邪惡，我見多了；而你這種平庸不知恥的惡，還是頭一遭……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_RIMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>我自認為經歷過很多傷心的時刻，可是這一回，連找到伙伴、克服難關的機會也沒有了。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_RIMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>我自認為經歷過很多傷心的時刻，可是這一回，連找到伙伴、克服難關的機會也沒有了。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_RIMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>那個，感謝關照啦！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_RIMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>那個，其實我們本可以聊聊巧克力之類的事呢……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_RIMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>我們的代表團捎了好多奇珍巧克力，原料從委內瑞拉到加納，來自好多風土呢！當然，還有山吹麵包房的招牌巧克力螺，你一定能喜歡上的！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_RIMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>不攢勁吶……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_RIMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>不攢勁吶……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_RIMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>我是牛込里美，Poppin' Party的貝斯，彈得算是有進步的。您看起來非常踏實可靠呢！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_RIMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>Popipa、GliGre和薰前輩都在我們這裡演出哦。來看看唄？</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_RIMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>其實，我有一個計劃，就是走遍全世界的租碟店，看遍小眾恐怖片。老實講，您的城市是我下一個目標……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_RIMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>來個巧克力螺嗎？你先吃，好吃多吃點。</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_GREETING_LEADER_RIMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>您好，有什麼可以代為效勞的嗎？</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_RIMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>是幸福的感覺啊……</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_RIMI_gkls621_ANY" Language="zh_Hant_HK">
+            <Text>可能我表現得有點害羞，但依然勇於站出來！</Text>
+        </Row>
+        <Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_RIMI_gkls621_ANY"
+            Language="zh_Hant_HK">
+            <Text>您也想變成巧克力螺嗎？</Text>
+        </Row>
+    </LocalizedText>
+</GameData>

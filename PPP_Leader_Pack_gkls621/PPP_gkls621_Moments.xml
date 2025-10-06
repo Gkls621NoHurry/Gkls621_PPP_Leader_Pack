@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PPP_gkls621_Moments -->
+<!-- Author: Geekless_621 -->
+<GameData>
+	<MomentIllustrations>
+        <Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_UNIT" MomentDataType="MOMENT_DATA_UNIT" GameDataType="UNIT_INHERITOR_gkls621" Texture="Moment_UniqueUnit_Inheritor_gkls621.dds"/>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_UNIT" MomentDataType="MOMENT_DATA_UNIT" GameDataType="UNIT_RABBIT_BRIGADE_gkls621" Texture="Moment_UniqueUnit_Rabbit_Brigade_gkls621.dds"/>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_UNIT" MomentDataType="MOMENT_DATA_UNIT" GameDataType="UNIT_RIMI_ZOMBIE_gkls621" Texture="Moment_UniqueUnit_Rimi_Zombie_gkls621.dds"/>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_GOVERNOR" MomentDataType="MOMENT_DATA_GOVERNOR" GameDataType="GOVERNOR_YURI_gkls621" Texture="Moment_PromoteGovernor_Yuri_gkls621.dds"/>
+        <Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_BUILDING" MomentDataType="MOMENT_DATA_BUILDING" GameDataType="BUILDING_RANDOM_STAR_gkls621" Texture="Moment_Infrastructure_Random_Star_gkls621.dds"/>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_BUILDING" MomentDataType="MOMENT_DATA_BUILDING" GameDataType="BUILDING_RYUSEIDO_gkls621" Texture="Moment_Infrastructure_Ryuseido_gkls621.dds"/>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_DISTRICT" MomentDataType="MOMENT_DATA_DISTRICT" GameDataType="DISTRICT_SHOPPING_STREET_gkls621" Texture="Moment_Infrastructure_Saaya_gkls621.dds"/>
+	</MomentIllustrations>
+</GameData>

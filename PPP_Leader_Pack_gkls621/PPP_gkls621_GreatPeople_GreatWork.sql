@@ -1,0 +1,125 @@
+-- Special Great Musician Glitter*Green
+INSERT INTO Types
+(Type,  Kind)
+VALUES
+--('GREAT_PERSON_CLASS_GLITTER_GREEN_gkls621',    'KIND_GREAT_PERSON_CLASS'),
+('GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621',    'KIND_GREAT_PERSON_INDIVIDUAL'),
+('GREATWORK_GG_1_gkls621', 'KIND_GREATWORK'),
+('GREATWORK_GG_2_gkls621', 'KIND_GREATWORK'),
+('ABILITY_GG_AOE_DEFENSE_gkls621',    'KIND_ABILITY');
+
+/*INSERT INTO GreatPersonClasses
+(GreatPersonClassType,
+Name,
+UnitType,
+DistrictType,
+PseudoYieldType,
+IconString,
+ActionIcon,
+AvailableInTimeline)
+VALUES
+('GREAT_PERSON_CLASS_GLITTER_GREEN_gkls621',
+'LOC_GREAT_PERSON_CLASS_GLITTER_GREEN_gkls621_NAME',
+'UNIT_GREAT_MUSICIAN',
+'DISTRICT_CITY_CENTER',
+'PSEUDOYIELD_GPP_MUSICIAN',
+'[ICON_GreatMusician]',
+'ICON_UNITOPERATION_MUSICIAN_ACTION',
+0);*/
+
+INSERT INTO GreatPersonIndividuals
+(GreatPersonIndividualType,
+Name,
+GreatPersonClassType,
+EraType,
+ActionCharges,
+Gender)
+VALUES
+('GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621',
+'LOC_GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621_NAME',
+'GREAT_PERSON_CLASS_MUSICIAN',
+'ERA_CLASSICAL',
+0,
+'F');
+
+INSERT INTO GreatPersonIndividualBirthModifiers
+(GreatPersonIndividualType, ModifierId)
+VALUES
+('GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621', 'MEDIC_INCREASE_HEAL_RATE'),
+('GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621',   'GG_AOE_DEFENSE_STRENGTH_gkls621');
+
+INSERT INTO Modifiers
+(ModifierId,    ModifierType,   SubjectRequirementSetId)
+VALUES
+('GG_AOE_DEFENSE_STRENGTH_gkls621', 'MODIFIER_PLAYER_UNITS_GRANT_ABILITY',  'AOE_LAND_REQUIREMENTS');
+
+INSERT INTO ModifierArguments
+(ModifierId,    Name,   Value)
+VALUES
+('GG_AOE_DEFENSE_STRENGTH_gkls621', 'AbilityType',  'ABILITY_GG_AOE_DEFENSE_gkls621');
+
+INSERT INTO GreatWorks
+(GreatWorkType,
+GreatWorkObjectType,
+GreatPersonIndividualType,
+Name,
+Tourism
+)
+VALUES
+('GREATWORK_GG_1_gkls621',
+'GREATWORKOBJECT_MUSIC',
+'GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621',
+'LOC_GREATWORK_GG_1_gkls621_NAME',
+4),
+('GREATWORK_GG_2_gkls621',
+'GREATWORKOBJECT_MUSIC',
+'GREAT_PERSON_INDIVIDUAL_GLITTER_GREEN_gkls621',
+'LOC_GREATWORK_GG_2_gkls621_NAME',
+4);
+
+INSERT INTO GreatWork_YieldChanges
+(GreatWorkType, YieldType,  YieldChange)
+VALUES
+('GREATWORK_GG_1_gkls621',  'YIELD_CULTURE',    4),
+('GREATWORK_GG_2_gkls621',  'YIELD_CULTURE',    4);
+
+INSERT INTO TypeTags
+(Type,  Tag)
+VALUES
+('ABILITY_GG_AOE_DEFENSE_gkls621',  'CLASS_ALL_COMBAT_UNITS');
+
+INSERT INTO UnitAbilities 
+(UnitAbilityType,   Name,   Description,    Inactive)
+VALUES
+('ABILITY_GG_AOE_DEFENSE_gkls621',  'LOC_ABILITY_GG_AOE_DEFENSE_gkls621_NAME',  'LOC_ABILITY_GG_AOE_DEFENSE_gkls621_DESCRIPTION',   1);
+
+INSERT INTO UnitAbilityModifiers
+(UnitAbilityType, ModifierId)
+VALUES
+('ABILITY_GG_AOE_DEFENSE_gkls621', 'GG_DEFENSE_STRENGTH_gkls621');
+
+INSERT INTO Modifiers
+(ModifierId, ModifierType, SubjectRequirementSetId)
+VALUES
+('GG_DEFENSE_STRENGTH_gkls621', 'MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH', 'REQSET_PPP_DEFENDER_gkls621');
+
+INSERT INTO ModifierArguments
+(ModifierId, Name, Value)
+VALUES
+('GG_DEFENSE_STRENGTH_gkls621', 'Amount', '10');
+
+INSERT INTO RequirementSets
+(RequirementSetId, RequirementSetType)
+VALUES
+('REQSET_PPP_DEFENDER_gkls621', 'REQUIREMENTSET_TEST_ALL');
+
+INSERT INTO RequirementSetRequirements
+(RequirementSetId, RequirementId)
+VALUES
+('REQSET_PPP_DEFENDER_gkls621', 'PLAYER_IS_DEFENDER_REQUIREMENTS');
+
+INSERT INTO ModifierStrings
+(ModifierId,    Context,    Text)
+VALUES
+('GG_DEFENSE_STRENGTH_gkls621', 'Preview',  'LOC_GG_DEFENSE_STRENGTH_gkls621_DESCRIPTION'),
+('GG_AOE_DEFENSE_STRENGTH_gkls621', 'Summary',  'LOC_GG_DEFENSE_STRENGTH_gkls621_DESCRIPTION');

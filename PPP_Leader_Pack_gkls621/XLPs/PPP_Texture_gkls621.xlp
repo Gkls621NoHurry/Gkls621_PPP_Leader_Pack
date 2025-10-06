@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="PPP_Texture_gkls621"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_ARISA_gkls621_256"/>
+			<m_ObjectName text="LEADER_ARISA_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ARISA_gkls621_32"/>
+			<m_ObjectName text="LEADER_ARISA_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ARISA_gkls621_45"/>
+			<m_ObjectName text="LEADER_ARISA_gkls621_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ARISA_gkls621_48"/>
+			<m_ObjectName text="LEADER_ARISA_gkls621_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ARISA_gkls621_50"/>
+			<m_ObjectName text="LEADER_ARISA_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ARISA_gkls621_55"/>
+			<m_ObjectName text="LEADER_ARISA_gkls621_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ARISA_gkls621_64"/>
+			<m_ObjectName text="LEADER_ARISA_gkls621_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ARISA_gkls621_80"/>
+			<m_ObjectName text="LEADER_ARISA_gkls621_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KASUMI_gkls621_256"/>
+			<m_ObjectName text="LEADER_KASUMI_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KASUMI_gkls621_32"/>
+			<m_ObjectName text="LEADER_KASUMI_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KASUMI_gkls621_45"/>
+			<m_ObjectName text="LEADER_KASUMI_gkls621_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KASUMI_gkls621_48"/>
+			<m_ObjectName text="LEADER_KASUMI_gkls621_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KASUMI_gkls621_50"/>
+			<m_ObjectName text="LEADER_KASUMI_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KASUMI_gkls621_55"/>
+			<m_ObjectName text="LEADER_KASUMI_gkls621_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KASUMI_gkls621_64"/>
+			<m_ObjectName text="LEADER_KASUMI_gkls621_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KASUMI_gkls621_80"/>
+			<m_ObjectName text="LEADER_KASUMI_gkls621_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RIMI_gkls621_256"/>
+			<m_ObjectName text="LEADER_RIMI_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RIMI_gkls621_32"/>
+			<m_ObjectName text="LEADER_RIMI_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RIMI_gkls621_45"/>
+			<m_ObjectName text="LEADER_RIMI_gkls621_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RIMI_gkls621_48"/>
+			<m_ObjectName text="LEADER_RIMI_gkls621_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RIMI_gkls621_50"/>
+			<m_ObjectName text="LEADER_RIMI_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RIMI_gkls621_55"/>
+			<m_ObjectName text="LEADER_RIMI_gkls621_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RIMI_gkls621_64"/>
+			<m_ObjectName text="LEADER_RIMI_gkls621_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RIMI_gkls621_80"/>
+			<m_ObjectName text="LEADER_RIMI_gkls621_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SAAYA_gkls621_256"/>
+			<m_ObjectName text="LEADER_SAAYA_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SAAYA_gkls621_32"/>
+			<m_ObjectName text="LEADER_SAAYA_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SAAYA_gkls621_45"/>
+			<m_ObjectName text="LEADER_SAAYA_gkls621_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SAAYA_gkls621_48"/>
+			<m_ObjectName text="LEADER_SAAYA_gkls621_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SAAYA_gkls621_50"/>
+			<m_ObjectName text="LEADER_SAAYA_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SAAYA_gkls621_55"/>
+			<m_ObjectName text="LEADER_SAAYA_gkls621_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SAAYA_gkls621_64"/>
+			<m_ObjectName text="LEADER_SAAYA_gkls621_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SAAYA_gkls621_80"/>
+			<m_ObjectName text="LEADER_SAAYA_gkls621_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TAE_gkls621_256"/>
+			<m_ObjectName text="LEADER_TAE_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TAE_gkls621_32"/>
+			<m_ObjectName text="LEADER_TAE_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TAE_gkls621_45"/>
+			<m_ObjectName text="LEADER_TAE_gkls621_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TAE_gkls621_48"/>
+			<m_ObjectName text="LEADER_TAE_gkls621_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TAE_gkls621_50"/>
+			<m_ObjectName text="LEADER_TAE_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TAE_gkls621_55"/>
+			<m_ObjectName text="LEADER_TAE_gkls621_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TAE_gkls621_64"/>
+			<m_ObjectName text="LEADER_TAE_gkls621_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TAE_gkls621_80"/>
+			<m_ObjectName text="LEADER_TAE_gkls621_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_128"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_22"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_256"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_32"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_38"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_50"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_80"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_SHOPPING_STREET_gkls621_128"/>
+			<m_ObjectName text="ICON_DISTRICT_SHOPPING_STREET_gkls621_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_SHOPPING_STREET_gkls621_22"/>
+			<m_ObjectName text="ICON_DISTRICT_SHOPPING_STREET_gkls621_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_SHOPPING_STREET_gkls621_256"/>
+			<m_ObjectName text="ICON_DISTRICT_SHOPPING_STREET_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_SHOPPING_STREET_gkls621_32"/>
+			<m_ObjectName text="ICON_DISTRICT_SHOPPING_STREET_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_SHOPPING_STREET_gkls621_38"/>
+			<m_ObjectName text="ICON_DISTRICT_SHOPPING_STREET_gkls621_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_SHOPPING_STREET_gkls621_50"/>
+			<m_ObjectName text="ICON_DISTRICT_SHOPPING_STREET_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_SHOPPING_STREET_gkls621_80"/>
+			<m_ObjectName text="ICON_DISTRICT_SHOPPING_STREET_gkls621_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_128"/>
+			<m_ObjectName text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_22"/>
+			<m_ObjectName text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_256"/>
+			<m_ObjectName text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_32"/>
+			<m_ObjectName text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_38"/>
+			<m_ObjectName text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_50"/>
+			<m_ObjectName text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_80"/>
+			<m_ObjectName text="ICON_DISTRICT_YAMABUKI_BAKERY_gkls621_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_INHERITOR_gkls621_PORTRAIT_200"/>
+			<m_ObjectName text="UNIT_INHERITOR_gkls621_PORTRAIT_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_INHERITOR_gkls621_PORTRAIT_256"/>
+			<m_ObjectName text="UNIT_INHERITOR_gkls621_PORTRAIT_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_INHERITOR_gkls621_PORTRAIT_38"/>
+			<m_ObjectName text="UNIT_INHERITOR_gkls621_PORTRAIT_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_INHERITOR_gkls621_PORTRAIT_50"/>
+			<m_ObjectName text="UNIT_INHERITOR_gkls621_PORTRAIT_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_INHERITOR_gkls621_PORTRAIT_70"/>
+			<m_ObjectName text="UNIT_INHERITOR_gkls621_PORTRAIT_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_INHERITOR_gkls621_PORTRAIT_95"/>
+			<m_ObjectName text="UNIT_INHERITOR_gkls621_PORTRAIT_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_200"/>
+			<m_ObjectName text="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_256"/>
+			<m_ObjectName text="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_38"/>
+			<m_ObjectName text="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_50"/>
+			<m_ObjectName text="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_70"/>
+			<m_ObjectName text="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_95"/>
+			<m_ObjectName text="UNIT_RABBIT_BRIGADE_gkls621_PORTRAIT_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_INHERITOR_gkls621_22"/>
+			<m_ObjectName text="UNIT_INHERITOR_gkls621_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_INHERITOR_gkls621_256"/>
+			<m_ObjectName text="UNIT_INHERITOR_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_INHERITOR_gkls621_32"/>
+			<m_ObjectName text="UNIT_INHERITOR_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_INHERITOR_gkls621_38"/>
+			<m_ObjectName text="UNIT_INHERITOR_gkls621_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_INHERITOR_gkls621_50"/>
+			<m_ObjectName text="UNIT_INHERITOR_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_INHERITOR_gkls621_80"/>
+			<m_ObjectName text="UNIT_INHERITOR_gkls621_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RABBIT_BRIGADE_gkls621_22"/>
+			<m_ObjectName text="UNIT_RABBIT_BRIGADE_gkls621_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RABBIT_BRIGADE_gkls621_256"/>
+			<m_ObjectName text="UNIT_RABBIT_BRIGADE_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RABBIT_BRIGADE_gkls621_32"/>
+			<m_ObjectName text="UNIT_RABBIT_BRIGADE_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RABBIT_BRIGADE_gkls621_38"/>
+			<m_ObjectName text="UNIT_RABBIT_BRIGADE_gkls621_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RABBIT_BRIGADE_gkls621_50"/>
+			<m_ObjectName text="UNIT_RABBIT_BRIGADE_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RABBIT_BRIGADE_gkls621_80"/>
+			<m_ObjectName text="UNIT_RABBIT_BRIGADE_gkls621_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RESOURCE_CHOCO_CORNET_gkls621_256"/>
+			<m_ObjectName text="ICON_RESOURCE_CHOCO_CORNET_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RESOURCE_CHOCO_CORNET_gkls621_38"/>
+			<m_ObjectName text="ICON_RESOURCE_CHOCO_CORNET_gkls621_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RESOURCE_CHOCO_CORNET_gkls621_50"/>
+			<m_ObjectName text="ICON_RESOURCE_CHOCO_CORNET_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RESOURCE_CHOCO_CORNET_gkls621_64"/>
+			<m_ObjectName text="ICON_RESOURCE_CHOCO_CORNET_gkls621_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RESOURCE_SAAYA_BREAD_gkls621_256"/>
+			<m_ObjectName text="ICON_RESOURCE_SAAYA_BREAD_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RESOURCE_SAAYA_BREAD_gkls621_38"/>
+			<m_ObjectName text="ICON_RESOURCE_SAAYA_BREAD_gkls621_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RESOURCE_SAAYA_BREAD_gkls621_50"/>
+			<m_ObjectName text="ICON_RESOURCE_SAAYA_BREAD_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RESOURCE_SAAYA_BREAD_gkls621_64"/>
+			<m_ObjectName text="ICON_RESOURCE_SAAYA_BREAD_gkls621_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_200"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_30"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_36"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_44"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_45"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_48"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CIVILIZATION_PPP_gkls621_64"/>
+			<m_ObjectName text="CIVILIZATION_PPP_gkls621_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RIMI_ZOMBIE_gkls621_22"/>
+			<m_ObjectName text="UNIT_RIMI_ZOMBIE_gkls621_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RIMI_ZOMBIE_gkls621_256"/>
+			<m_ObjectName text="UNIT_RIMI_ZOMBIE_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RIMI_ZOMBIE_gkls621_32"/>
+			<m_ObjectName text="UNIT_RIMI_ZOMBIE_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RIMI_ZOMBIE_gkls621_38"/>
+			<m_ObjectName text="UNIT_RIMI_ZOMBIE_gkls621_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RIMI_ZOMBIE_gkls621_50"/>
+			<m_ObjectName text="UNIT_RIMI_ZOMBIE_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RIMI_ZOMBIE_gkls621_80"/>
+			<m_ObjectName text="UNIT_RIMI_ZOMBIE_gkls621_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_200"/>
+			<m_ObjectName text="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_256"/>
+			<m_ObjectName text="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_38"/>
+			<m_ObjectName text="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_50"/>
+			<m_ObjectName text="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_70"/>
+			<m_ObjectName text="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_95"/>
+			<m_ObjectName text="UNIT_RIMI_ZOMBIE_gkls621_PORTRAIT_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_DIPLOMACY_BACKGROUND_PPP_gkls621"/>
+			<m_ObjectName text="IMG_DIPLOMACY_BACKGROUND_PPP_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_YURI_gkls621_FILL"/>
+			<m_ObjectName text="GOVERNOR_YURI_gkls621_FILL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_YURI_gkls621_SLOT"/>
+			<m_ObjectName text="GOVERNOR_YURI_gkls621_SLOT"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_YURI_gkls621_PROMOTION"/>
+			<m_ObjectName text="GOVERNOR_YURI_gkls621_PROMOTION"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_YURI_gkls621_22"/>
+			<m_ObjectName text="GOVERNOR_YURI_gkls621_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_YURI_gkls621_32"/>
+			<m_ObjectName text="GOVERNOR_YURI_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_YURI_gkls621_64"/>
+			<m_ObjectName text="GOVERNOR_YURI_gkls621_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GREATWORK_GG_1_gkls621_256"/>
+			<m_ObjectName text="GREATWORK_GG_1_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GREATWORK_GG_1_gkls621_45"/>
+			<m_ObjectName text="GREATWORK_GG_1_gkls621_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GREATWORK_GG_1_gkls621_64"/>
+			<m_ObjectName text="GREATWORK_GG_1_gkls621_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GREATWORK_GG_2_gkls621_256"/>
+			<m_ObjectName text="GREATWORK_GG_2_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GREATWORK_GG_2_gkls621_45"/>
+			<m_ObjectName text="GREATWORK_GG_2_gkls621_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GREATWORK_GG_2_gkls621_64"/>
+			<m_ObjectName text="GREATWORK_GG_2_gkls621_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_RANDOM_STAR_gkls621_128"/>
+			<m_ObjectName text="ICON_BUILDING_RANDOM_STAR_gkls621_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_RANDOM_STAR_gkls621_256"/>
+			<m_ObjectName text="ICON_BUILDING_RANDOM_STAR_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_RANDOM_STAR_gkls621_32"/>
+			<m_ObjectName text="ICON_BUILDING_RANDOM_STAR_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_RANDOM_STAR_gkls621_38"/>
+			<m_ObjectName text="ICON_BUILDING_RANDOM_STAR_gkls621_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_RANDOM_STAR_gkls621_50"/>
+			<m_ObjectName text="ICON_BUILDING_RANDOM_STAR_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_RANDOM_STAR_gkls621_80"/>
+			<m_ObjectName text="ICON_BUILDING_RANDOM_STAR_gkls621_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_LOADING_FOREGROUND_ARISA_gkls621"/>
+			<m_ObjectName text="IMG_LOADING_FOREGROUND_ARISA_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_LOADING_FOREGROUND_RIMI_gkls621"/>
+			<m_ObjectName text="IMG_LOADING_FOREGROUND_RIMI_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_LOADING_FOREGROUND_SAAYA_gkls621"/>
+			<m_ObjectName text="IMG_LOADING_FOREGROUND_SAAYA_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_LOADING_FOREGROUND_TAE_gkls621"/>
+			<m_ObjectName text="IMG_LOADING_FOREGROUND_TAE_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_SELECTION_LEADER_ARISA_gkls621"/>
+			<m_ObjectName text="IMG_SELECTION_LEADER_ARISA_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_SELECTION_LEADER_KASUMI_gkls621"/>
+			<m_ObjectName text="IMG_SELECTION_LEADER_KASUMI_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_SELECTION_LEADER_RIMI_gkls621"/>
+			<m_ObjectName text="IMG_SELECTION_LEADER_RIMI_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_SELECTION_LEADER_SAAYA_gkls621"/>
+			<m_ObjectName text="IMG_SELECTION_LEADER_SAAYA_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_SELECTION_LEADER_TAE_gkls621"/>
+			<m_ObjectName text="IMG_SELECTION_LEADER_TAE_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_NORMAL_GOVERNOR_YURI_gkls621"/>
+			<m_ObjectName text="IMG_NORMAL_GOVERNOR_YURI_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_SELECTED_GOVERNOR_YURI_gkls621"/>
+			<m_ObjectName text="IMG_SELECTED_GOVERNOR_YURI_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_YURI_gkls621_FILL_22"/>
+			<m_ObjectName text="GOVERNOR_YURI_gkls621_FILL_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_YURI_gkls621_SLOT_22"/>
+			<m_ObjectName text="GOVERNOR_YURI_gkls621_SLOT_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RESOURCE_CHOCO_CORNET_gkls621_22"/>
+			<m_ObjectName text="ICON_RESOURCE_CHOCO_CORNET_gkls621_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_LOADING_FOREGROUND_KASUMI_gkls621"/>
+			<m_ObjectName text="IMG_LOADING_FOREGROUND_KASUMI_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RESOURCE_SAAYA_BREAD_gkls621_22"/>
+			<m_ObjectName text="ICON_RESOURCE_SAAYA_BREAD_gkls621_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_MONOPOLIES_AND_CORPS_RESOURCE_SAAYA_BREAD_gkls621_256"/>
+			<m_ObjectName text="ICON_MONOPOLIES_AND_CORPS_RESOURCE_SAAYA_BREAD_gkls621_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_MONOPOLIES_AND_CORPS_RESOURCE_SAAYA_BREAD_gkls621_32"/>
+			<m_ObjectName text="ICON_MONOPOLIES_AND_CORPS_RESOURCE_SAAYA_BREAD_gkls621_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_MONOPOLIES_AND_CORPS_RESOURCE_SAAYA_BREAD_gkls621_38"/>
+			<m_ObjectName text="ICON_MONOPOLIES_AND_CORPS_RESOURCE_SAAYA_BREAD_gkls621_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_MONOPOLIES_AND_CORPS_RESOURCE_SAAYA_BREAD_gkls621_50"/>
+			<m_ObjectName text="ICON_MONOPOLIES_AND_CORPS_RESOURCE_SAAYA_BREAD_gkls621_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_MONOPOLIES_AND_CORPS_RESOURCE_SAAYA_BREAD_gkls621_64"/>
+			<m_ObjectName text="ICON_MONOPOLIES_AND_CORPS_RESOURCE_SAAYA_BREAD_gkls621_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_Infrastructure_Random_Star_gkls621"/>
+			<m_ObjectName text="Moment_Infrastructure_Random_Star_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_Infrastructure_Ryuseido_gkls621"/>
+			<m_ObjectName text="Moment_Infrastructure_Ryuseido_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_Infrastructure_Saaya_gkls621"/>
+			<m_ObjectName text="Moment_Infrastructure_Saaya_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_PromoteGovernor_Yuri_gkls621"/>
+			<m_ObjectName text="Moment_PromoteGovernor_Yuri_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_UniqueUnit_Inheritor_gkls621"/>
+			<m_ObjectName text="Moment_UniqueUnit_Inheritor_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_UniqueUnit_Rabbit_Brigade_gkls621"/>
+			<m_ObjectName text="Moment_UniqueUnit_Rabbit_Brigade_gkls621"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_UniqueUnit_Rimi_Zombie_gkls621"/>
+			<m_ObjectName text="Moment_UniqueUnit_Rimi_Zombie_gkls621"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
